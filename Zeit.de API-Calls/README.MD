@@ -63,3 +63,19 @@ Use AGS for AGS-Variable i.e.:
 	"ags" : "14612"
 }
 ```
+
+| AGS	| Landkreis						   |
+|:-----:| -------------------------------- |
+| 14511 | Chemnitz						   |
+| 14612 | Dresden						   |
+| 14713 | Leipzig						   |
+| 14521 | Erzgebirgskreis				   |
+| 14522 | Mittelsachsen					   |
+| 14523 | Vogtlandkreis					   |
+| 14524 | Zwickau						   |
+| 14625 | Bautzen						   |
+| 14626 | Görlitz						   |
+| 14627 | Meißen						   |
+| 14628 | Sächsische Schweiz-Osterzgebirge |
+| 14729 | Landkreis Leipzig				   |
+| 14730 | Nordsachsen 					   |
