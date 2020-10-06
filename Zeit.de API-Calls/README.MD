@@ -37,3 +37,29 @@ query InitialQuery {
 	}
 }
 ```
+
+### Landkreise
+
+```graphql
+POST https://interactive-api.zeit.de/v1/graphql?Content-Type=application/graphql
+Host: Zeit.de
+Content-Type: application/graphql
+
+query KreisDetail($ags: String!) {
+    days: intensivregister_csvimport_kreise_historisch(where: {ags: {_eq: $ags}}) {
+        date: day
+        covid19: faelle_covid_aktuell
+        bedsFree: betten_frei
+        bedsOccupied: betten_belegt
+        clinicCount: anzahl_standorte
+        }
+    }
+```
+
+Use AGS for AGS-Variable i.e.:
+
+```graphql
+{
+	"ags" : "14612"
+}
+```
