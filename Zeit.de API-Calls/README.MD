@@ -4,7 +4,7 @@
 
 ### Germany whole
 
-```
+```graphql
 POST https://interactive-api.zeit.de/v1/graphql?Content-Type=application/graphql
 Host: Zeit.de
 Content-Type: application/graphql
