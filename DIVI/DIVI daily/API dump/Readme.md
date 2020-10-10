@@ -12,7 +12,7 @@ https://www.intensivregister.de/api/public/intensivregister
 
 [Postleitregionen mit regionaler Zugehörigkeit] – Statistisches Bundesamt – Stand: 31.12.2019
 
-[Zuordnung PLZ zu AGS]: https://www.suche-postleitzahl.org/downloads#
+[Zuordnung PLZ zu AGS]: https://www.suche-postleitzahl.org/download_files/public/zuordnung_plz_ort_landkreis.csv
 [www.suche-postleitzahl.org]: https://www.suche-postleitzahl.org/downloads
 [Postleitregionen mit regionaler Zugehörigkeit]:https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/21-postleit-regionen.html
 
