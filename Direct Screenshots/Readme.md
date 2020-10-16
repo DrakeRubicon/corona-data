@@ -1,4 +1,4 @@
-#Moved.
+# Moved.
 
 Moved to saperate repository: [DrakeRubicon/corona-screenshots].
 
