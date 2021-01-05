@@ -5,8 +5,5 @@ Mostly Saxony, but some contain Datasets for whole Germany too.
 
 ## Notice:
 
-More frequent updates will resume in in 2021. Data collection from Dec 21st 2020 to Jan 1st 2021 is secured. Repository updates may occur late or at Jan 2nd 2021.
-
-May you and your close ones have peaceful holidays and stay healthy.
-– Drake
+Datawrapper export for DIVI and Chemnitz for Jan 02 2021 failed. Closest Data Point is Jan 03 2021 12:44pm.
 
