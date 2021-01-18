@@ -1,0 +1,281 @@
+{
+  "germany": {
+    "historical": [
+      {
+        "date": "2021-01-17",
+        "value": 1139220,
+        "protected": 6581
+      },
+      {
+        "date": "2021-01-16",
+        "value": 1108068,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-15",
+        "value": 1055970,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-14",
+        "value": 970795,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-13",
+        "value": 873007,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-12",
+        "value": 780063,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-11",
+        "value": 700646,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-10",
+        "value": 635189,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-09",
+        "value": 602956,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-08",
+        "value": 549523,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-07",
+        "value": 492194,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-06",
+        "value": 435561,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-05",
+        "value": 379879,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-04",
+        "value": 329359,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-03",
+        "value": 281043,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-02",
+        "value": 256525,
+        "protected": 0
+      },
+      {
+        "date": "2021-01-01",
+        "value": 211785,
+        "protected": 0
+      },
+      {
+        "date": "2020-12-31",
+        "value": 181254,
+        "protected": 0
+      },
+      {
+        "date": "2020-12-30",
+        "value": 143424,
+        "protected": 0
+      },
+      {
+        "date": "2020-12-29",
+        "value": 86196,
+        "protected": 0
+      },
+      {
+        "date": "2020-12-28",
+        "value": 43504,
+        "protected": 0
+      },
+      {
+        "date": "2020-12-27",
+        "value": 24016,
+        "protected": null
+      }
+    ]
+  },
+  "bundeslaender": [
+    {
+      "id": "Baden-Württemberg",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 114954,
+          "protected": 0
+        }
+      ]
+    },
+    {
+      "id": "Bayern",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 213837,
+          "protected": 0
+        }
+      ]
+    },
+    {
+      "id": "Berlin",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 52622,
+          "protected": 1933
+        }
+      ]
+    },
+    {
+      "id": "Brandenburg",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 38474,
+          "protected": 0
+        }
+      ]
+    },
+    {
+      "id": "Bremen",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 11845,
+          "protected": 0
+        }
+      ]
+    },
+    {
+      "id": "Hamburg",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 24468,
+          "protected": 425
+        }
+      ]
+    },
+    {
+      "id": "Hessen",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 72816,
+          "protected": 1736
+        }
+      ]
+    },
+    {
+      "id": "Mecklenburg-Vorpommern",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 37564,
+          "protected": 0
+        }
+      ]
+    },
+    {
+      "id": "Niedersachsen",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 90005,
+          "protected": 335
+        }
+      ]
+    },
+    {
+      "id": "Nordrhein-Westfalen",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 211779,
+          "protected": 968
+        }
+      ]
+    },
+    {
+      "id": "Rheinland-Pfalz",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 82810,
+          "protected": 350
+        }
+      ]
+    },
+    {
+      "id": "Saarland",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 15711,
+          "protected": 0
+        }
+      ]
+    },
+    {
+      "id": "Sachsen",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 50002,
+          "protected": 155
+        }
+      ]
+    },
+    {
+      "id": "Sachsen-Anhalt",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 33148,
+          "protected": 679
+        }
+      ]
+    },
+    {
+      "id": "Schleswig-Holstein",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 65849,
+          "protected": 0
+        }
+      ]
+    },
+    {
+      "id": "Thüringen",
+      "historical": [
+        {
+          "date": "2021-01-17",
+          "value": 23413,
+          "protected": 0
+        }
+      ]
+    }
+  ],
+  "timestamp": "18.1.2021, 11:00 Uhr",
+  "messages": [],
+  "lastUpdate": "2021-01-18T18:24:14+01:00"
+}
