@@ -1,0 +1,5834 @@
+{
+  "lastUpdate": "2021-02-16T16:00:05+01:00",
+  "impfzentren": [
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.72794,
+        48.27189
+      ],
+      "capacity": 800,
+      "label": "Alb-Donau-Center Ehingen",
+      "ags": "8425",
+      "plz": "89584",
+      "ort": "Ehingen",
+      "address": "Talstraße 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.2356,
+        48.75977
+      ],
+      "capacity": 800,
+      "label": "Kurhaus Baden-Baden",
+      "ags": "8211",
+      "plz": "76530",
+      "ort": "Baden-Baden",
+      "address": "Werderstraße 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.82878,
+        48.06149
+      ],
+      "capacity": 800,
+      "label": "Gemeindehalle Ummendorf",
+      "ags": "8426",
+      "plz": "88444",
+      "ort": "Ummendorf",
+      "address": "Schulstraße 31",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.038527,
+        48.705359
+      ],
+      "capacity": 800,
+      "label": "Messehalle Sindelfingen",
+      "ags": "8115",
+      "plz": "71065",
+      "ort": "Sindelfingen",
+      "address": "Mahdentalstraße 116",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.506216,
+        47.678314
+      ],
+      "capacity": 800,
+      "label": "Messe-Friedrichshafen",
+      "ags": "8435",
+      "plz": "88046",
+      "ort": "Friedrichshafen",
+      "address": "Neue Messe 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        7.604553281870237,
+        47.80912826267749
+      ],
+      "capacity": 800,
+      "label": "Kreisimpfzentrum Müllheim",
+      "ags": "8315",
+      "plz": "79379",
+      "ort": "Müllheim",
+      "address": "Eisenbahnstraße 14",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.643805,
+        48.6228
+      ],
+      "capacity": 800,
+      "label": "DEKRA-Hotel Wart",
+      "ags": "8235",
+      "plz": "72213",
+      "ort": "Altensteig",
+      "address": "Wildbader Straße 28",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        7.767435,
+        48.201692
+      ],
+      "capacity": 800,
+      "label": "Ehemaliger ALDI-Markt",
+      "ags": "8316",
+      "plz": "79341",
+      "ort": "Kenzingen",
+      "address": "Industriestraße 26",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.855515,
+        48.865488
+      ],
+      "capacity": 800,
+      "label": "Appenberg-Halle Mönsheim",
+      "ags": "8236",
+      "plz": "71297",
+      "ort": "Mönsheim",
+      "address": "Pforzheimer Straße 85",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.1867038382969,
+        48.69377100744816
+      ],
+      "capacity": 800,
+      "label": "Stuttgart Messe",
+      "ags": "8116",
+      "plz": "70629",
+      "ort": "Leinfelden-Echterdingen",
+      "address": "Messepiazza 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.344174,
+        48.722169
+      ],
+      "capacity": 800,
+      "label": "Ehemaliges Panasonic-Areal",
+      "ags": "8116",
+      "plz": "73730",
+      "ort": "Esslingen-Zell",
+      "address": "Zeppelinstraße 112",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        7.839636,
+        48.016
+      ],
+      "capacity": 800,
+      "label": "Messe Freiburg (KIZ)",
+      "ags": "8311",
+      "plz": "79108",
+      "ort": "Freiburg im Breisgau",
+      "address": "Neuer Messeplatz 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-27",
+      "coords": [
+        7.840269420177264,
+        48.01572573868668
+      ],
+      "capacity": 1500,
+      "label": "Messe Freiburg (ZIZ)",
+      "ags": "8311",
+      "plz": "79108",
+      "ort": "Freiburg im Breisgau",
+      "address": "Hermann-Mitsch-Straße 3",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.50522,
+        48.47257
+      ],
+      "capacity": 800,
+      "label": "Riedsteighalle Dornstetten",
+      "ags": "8237",
+      "plz": "72280",
+      "ort": "Dornstetten",
+      "address": "Riedsteige 80",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.689540806564565,
+        48.71253792309058
+      ],
+      "capacity": 800,
+      "label": "Werfthalle Göppingen",
+      "ags": "8117",
+      "plz": "73037",
+      "ort": "Göppingen",
+      "address": "Manfred-Wörner-Straße 104",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-27",
+      "coords": [
+        8.628358,
+        49.37118
+      ],
+      "capacity": 1500,
+      "label": "Patrick-Henry-Village (ehemalige US-Kaserne)",
+      "ags": "8221",
+      "plz": "69124",
+      "ort": "Heidelberg",
+      "address": "South Gettysburg Avenue 45",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.65231,
+        49.39806
+      ],
+      "capacity": 800,
+      "label": "Gesellschaftshaus Pfaffengrund",
+      "ags": "8221",
+      "plz": "69123",
+      "ort": "Heidelberg",
+      "address": "Schwalbenweg 1/2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        10.146747,
+        48.672521
+      ],
+      "capacity": 800,
+      "label": "Congress Centrum Heidenheim",
+      "ags": "8135",
+      "plz": "89522",
+      "ort": "Heidenheim",
+      "address": "Hugo-Rupf-Platz 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.28742,
+        49.05437
+      ],
+      "capacity": 800,
+      "label": "Tiefenbachhalle Ilsfeld",
+      "ags": "8125",
+      "plz": "74360",
+      "ort": "Ilsfeld",
+      "address": "Ochsenweg 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.171784,
+        49.114284
+      ],
+      "capacity": 800,
+      "label": "Stauwerhalle Horkheim",
+      "ags": "8121",
+      "plz": "74081",
+      "ort": "Heilbronn",
+      "address": "Nussäckerstraße 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.507257,
+        49.199114
+      ],
+      "capacity": 800,
+      "label": "Hohenlohe-Sporthalle Öhringen",
+      "ags": "8126",
+      "plz": "74613",
+      "ort": "Öhringen",
+      "address": "Pfaffenmühlenweg 30",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-27",
+      "coords": [
+        8.3308,
+        48.98082
+      ],
+      "capacity": 1500,
+      "label": "Messe Karlsruhe Halle 2 (ZIZ)",
+      "ags": "8215",
+      "plz": "76287",
+      "ort": "Rheinstetten",
+      "address": "Messeallee 1",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.85992,
+        49.09882
+      ],
+      "capacity": 800,
+      "label": "EGO Halle 4",
+      "ags": "8215",
+      "plz": "75056",
+      "ort": "Sulzfeld",
+      "address": "Ochsenburger Str. 19",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.64021,
+        49.09497
+      ],
+      "capacity": 800,
+      "label": "Praktiker-Baumarkt",
+      "ags": "8215",
+      "plz": "76646",
+      "ort": "Bruchsal",
+      "address": "Stuttgarter Straße 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.40119,
+        49.00193
+      ],
+      "capacity": 800,
+      "label": "Kongresszentrum Schwarzwaldhalle",
+      "ags": "8212",
+      "plz": "76137",
+      "ort": "Karlsruhe",
+      "address": "Festplatz 5",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.832787,
+        47.760807
+      ],
+      "capacity": 800,
+      "label": "Stadthalle Singen",
+      "ags": "8335",
+      "plz": "78224",
+      "ort": "Singen",
+      "address": "Hohgarten 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        7.678864302028652,
+        47.631145019094156
+      ],
+      "capacity": 800,
+      "label": "IMPULSIV Freizeitcenter Weil am Rhein",
+      "ags": "8336",
+      "plz": "79541",
+      "ort": "Lörrach",
+      "address": "Beim Haagensteg 5",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.168672,
+        48.892043
+      ],
+      "capacity": 800,
+      "label": "MM Studio 1",
+      "ags": "8118",
+      "plz": "71636",
+      "ort": "Ludwigsburg",
+      "address": "Grönerstraße 33",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.168494,
+        48.892499
+      ],
+      "capacity": 800,
+      "label": "MM Studio 2",
+      "ags": "8118",
+      "plz": "71636",
+      "ort": "Ludwigsburg",
+      "address": "Grönerstraße 33",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.769774,
+        49.487008
+      ],
+      "capacity": 800,
+      "label": "Berufliches Schulzentrum",
+      "ags": "8128",
+      "plz": "97980",
+      "ort": "Bad Mergentheim",
+      "address": "Seegartenstraße 16",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.522918367061921,
+        49.46910263678048
+      ],
+      "capacity": 800,
+      "label": "Maimarktareal Mannheim",
+      "ags": "8222",
+      "plz": "68163",
+      "ort": "Mannheim",
+      "address": "Xaver-Fuhr-Straße 101",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.147749,
+        49.354326
+      ],
+      "capacity": 800,
+      "label": "Obertorzentrum Mosbach",
+      "ags": "8225",
+      "plz": "74821",
+      "ort": "Mosbach (Baden)",
+      "address": "Hauptstraße 96",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-27",
+      "coords": [
+        7.9326,
+        48.46375
+      ],
+      "capacity": 1500,
+      "label": "Messe Offenburg-Ortenau (ZIZ)",
+      "ags": "8317",
+      "plz": "77656",
+      "ort": "Offenburg",
+      "address": "Schutterwälderstraße 3",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        7.832579,
+        48.344578
+      ],
+      "capacity": 800,
+      "label": "Rheintalsporthalle Lahr",
+      "ags": "8317",
+      "plz": "77933",
+      "ort": "Lahr",
+      "address": "Rheinstraße 15",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        7.9326,
+        48.46375
+      ],
+      "capacity": 800,
+      "label": "Messe Offenburg-Ortenau",
+      "ags": "8317",
+      "plz": "77656",
+      "ort": "Offenburg",
+      "address": "Schutterwälderstraße 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        10.08253,
+        48.840162
+      ],
+      "capacity": 800,
+      "label": "Ulrich-Pfeifle-Halle Aalen",
+      "ags": "8136",
+      "plz": "73430",
+      "ort": "Aalen",
+      "address": "Parkstraße 15",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.723136,
+        48.896042
+      ],
+      "capacity": 800,
+      "label": "Eissporthalle St.-Maur-Halle",
+      "ags": "8231",
+      "plz": "75175",
+      "ort": "Pforzheim",
+      "address": "Hohwiesenweg 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.12837,
+        48.6881
+      ],
+      "capacity": 800,
+      "label": "Schwarzwaldhalle Bühl",
+      "ags": "8216",
+      "plz": "77815",
+      "ort": "Bühl",
+      "address": "Ludwig-Jahn-Straße 6a",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.61405,
+        47.790381
+      ],
+      "capacity": 800,
+      "label": "Oberschwabenhalle Ravensburg",
+      "ags": "8436",
+      "plz": "88212",
+      "ort": "Ravensburg",
+      "address": "Bleicherstraße 20",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.330288,
+        48.826524
+      ],
+      "capacity": 800,
+      "label": "Rundsporthalle Waiblingen",
+      "ags": "8119",
+      "plz": "71334",
+      "ort": "Waiblingen",
+      "address": "Beinsteiner Straße 160",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.189077,
+        48.478307
+      ],
+      "capacity": 800,
+      "label": "Kreuzeiche-Stadion Tribünengebäude",
+      "ags": "8415",
+      "plz": "72762",
+      "ort": "Reutlingen",
+      "address": "An der Kreuzeiche 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.863944,
+        49.252373
+      ],
+      "capacity": 800,
+      "label": "Ehemalige Parsa-Halle Sinsheim",
+      "ags": "8226",
+      "plz": "74889",
+      "ort": "Sinsheim",
+      "address": "Breite Seite 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.668312,
+        49.554218
+      ],
+      "capacity": 800,
+      "label": "3 Glocken Center",
+      "ags": "8226",
+      "plz": "69469",
+      "ort": "Weinheim",
+      "address": "Bergstraße 49 - 57",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.630104687432794,
+        48.158344026127686
+      ],
+      "capacity": 800,
+      "label": "Stadthalle Rottweil",
+      "ags": "8325",
+      "plz": "78628",
+      "ort": "Rottweil",
+      "address": "Stadionstraße 40",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-27",
+      "coords": [
+        10.01662,
+        49.25645
+      ],
+      "capacity": 1500,
+      "label": "Rot am See (ehemalige Putenschlachterei)",
+      "ags": "8127",
+      "plz": "74585",
+      "ort": "Rot am See",
+      "address": "Steinäckerstraße 16",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.8487358,
+        49.1693929
+      ],
+      "capacity": 800,
+      "label": "Mehrzweckhalle Wolpertshausen",
+      "ags": "8127",
+      "plz": "74549",
+      "ort": "Wolpertshausen",
+      "address": "Sälich 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.542299,
+        48.050088
+      ],
+      "capacity": 800,
+      "label": "Tennishalle TCS Schwenningen",
+      "ags": "8326",
+      "plz": "78056",
+      "ort": "Schwenningen",
+      "address": "Waldeckweg 25",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.366503901104595,
+        48.046395690410854
+      ],
+      "capacity": 800,
+      "label": "Kaserne Sporthalle Hohentengen",
+      "ags": "8437",
+      "plz": "88367",
+      "ort": "Hohentengen",
+      "address": "Österfeldstraße",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-27",
+      "coords": [
+        9.186691,
+        48.814253
+      ],
+      "capacity": 1500,
+      "label": "Robert-Bosch-Krankenhaus (ZIZ)",
+      "ags": "8111",
+      "plz": "70376",
+      "ort": "Stuttgart",
+      "address": "Auerbachstaße 110",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2020-12-27",
+      "coords": [
+        9.169557,
+        48.778842
+      ],
+      "capacity": 1500,
+      "label": "Liederhalle Stuttgart (ZIZ)",
+      "ags": "8111",
+      "plz": "70174",
+      "ort": "Stuttgart",
+      "address": "Berliner Platz 1 - 3",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.169557,
+        48.778842
+      ],
+      "capacity": 800,
+      "label": "Liederhalle Stuttgart (KIZ)",
+      "ags": "8111",
+      "plz": "70174",
+      "ort": "Stuttgart",
+      "address": "Berliner Platz 1 - 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-27",
+      "coords": [
+        9.042246,
+        48.51034
+      ],
+      "capacity": 1500,
+      "label": "Paul-Horn-Arena (ZIZ)",
+      "ags": "8416",
+      "plz": "72072",
+      "ort": "Tübingen",
+      "address": "Europastraße 50",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        9.042246,
+        48.51034
+      ],
+      "capacity": 800,
+      "label": "Paul-Horn-Arena (KIZ)",
+      "ags": "8416",
+      "plz": "72072",
+      "ort": "Tübingen",
+      "address": "Europastraße 50",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.804248,
+        47.987325
+      ],
+      "capacity": 800,
+      "label": "Kreissporthalle Tuttlingen",
+      "ags": "8327",
+      "plz": "78532",
+      "ort": "Tuttlingen",
+      "address": "Mühlenweg 27",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-27",
+      "coords": [
+        10.01447,
+        48.41419
+      ],
+      "capacity": 1500,
+      "label": "Ulm-Messe Halle 7 (ZIZ)",
+      "ags": "8421",
+      "plz": "89073",
+      "ort": "Ulm",
+      "address": "Böfinger Straße 50",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        10.01447,
+        48.41419
+      ],
+      "capacity": 800,
+      "label": "Ulm-Messe Halle 5",
+      "ags": "8421",
+      "plz": "89073",
+      "ort": "Ulm",
+      "address": "Böfinger Straße 50",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        10.01447,
+        48.41419
+      ],
+      "capacity": 800,
+      "label": "Ulm-Messe Halle 6 Teilbereich",
+      "ags": "8421",
+      "plz": "89073",
+      "ort": "Ulm",
+      "address": "Böfinger Straße 50",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.275793,
+        47.630613
+      ],
+      "capacity": 800,
+      "label": "Stadthalle Tiengen",
+      "ags": "8337",
+      "plz": "79761",
+      "ort": "Tiengen",
+      "address": "Berliner Straße 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-22",
+      "coords": [
+        8.994725,
+        48.18672
+      ],
+      "capacity": 800,
+      "label": "Zollernalb-Kaserne (ehemalige LEA)",
+      "ags": "8417",
+      "plz": "72469",
+      "ort": "Meßstetten",
+      "address": "Geißbühlstr. 51",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.14009,
+        48.46318
+      ],
+      "label": "Altes Krankenhaus Aichbach",
+      "ags": "9771",
+      "plz": "86551",
+      "ort": "Aichach",
+      "address": "Krankenhausstraße 11b",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.0863196,
+        48.3983912
+      ],
+      "label": "Industriehalle",
+      "ags": "9771",
+      "plz": "86453",
+      "ort": "Dasing",
+      "address": "Carl-von-Linde-Straße 6",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.68945,
+        48.23421
+      ],
+      "label": "Kreishallenbad Neuötting",
+      "ags": "9171",
+      "plz": "84524",
+      "ort": "Neuötting",
+      "address": "Badstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.866978,
+        49.43481
+      ],
+      "label": "Jugendzentrum Klärwerk",
+      "ags": "9361",
+      "plz": "92224",
+      "ort": "Amberg",
+      "address": "Bruno-Hofer-Straße 8",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.74708,
+        49.504041
+      ],
+      "capacity": 300,
+      "label": "Landkreis Cultur Center (LCC)",
+      "ags": "9371",
+      "plz": "92237",
+      "ort": "Sulzbach-Rosenberg",
+      "address": "Obere Gartenstraße 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.55774,
+        49.299299
+      ],
+      "label": "Messegelände Ansbach",
+      "ags": "9561",
+      "plz": "91522",
+      "ort": "Ansbach",
+      "address": "Am Onolzbach 69",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        9.222165,
+        50.006086
+      ],
+      "label": "Impfzentrum Aschaffenburg",
+      "ags": "9671",
+      "plz": "63768",
+      "ort": "Hösbach",
+      "address": "Industriestraße 2",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.855702,
+        48.457801
+      ],
+      "label": "Imfpzentrum Landkreis Augsburg",
+      "ags": "9761",
+      "plz": "86456",
+      "ort": "Gablingen",
+      "address": "Paul-Klee-Str. 13",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.891462,
+        48.324187
+      ],
+      "label": "Impfzentrum Stadt Augsburg",
+      "ags": "9772",
+      "plz": "86199",
+      "ort": "Augsburg",
+      "address": "Bürgermeister-Ulrich-Straße 100",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.074132,
+        50.203295
+      ],
+      "capacity": 2000,
+      "label": "Tattersall Bad Kissingen",
+      "ags": "9672",
+      "plz": "97688",
+      "ort": "Bad Kissingen",
+      "address": "Reithausplatz 2",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.428516,
+        47.912393
+      ],
+      "label": "An der Kreisklinik Wolfratshausen",
+      "ags": "9173",
+      "plz": "82515",
+      "ort": "Wolfratshausen",
+      "address": "Gebhardtstraße 2",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.551604,
+        47.756605
+      ],
+      "label": "Stadtklinik Asklepios Bad Tölz",
+      "ags": "9173",
+      "plz": "83646",
+      "ort": "Bad Tölz",
+      "address": "Schützenstraße 15",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.920354,
+        49.879068
+      ],
+      "label": "BROSE ARENA Bamberg",
+      "ags": "9461",
+      "plz": "96050",
+      "ort": "Bamberg",
+      "address": "Forchheimer Straße 15",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-04-01",
+      "coords": [
+        10.912871769824577,
+        49.91533067940511
+      ],
+      "label": "Tennispark An der Breitenau",
+      "ags": "9461",
+      "plz": "96052",
+      "ort": "Bamberg",
+      "address": "Zeppelinstraße 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.527365,
+        49.757576
+      ],
+      "label": "Ärztehaus Sana-Klinik Pegnitz",
+      "ags": "9472",
+      "plz": "91257",
+      "ort": "Pegnitz",
+      "address": "Langer Berg 12",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.548353,
+        49.934938
+      ],
+      "label": "Turnhalle 2 (Johannes-Kepler-Realschule)",
+      "ags": "9462",
+      "plz": "95447",
+      "ort": "Bayreuth",
+      "address": "Adolf-Wächter-Straße 8",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.579758,
+        49.947203
+      ],
+      "label": "Sporthallen am Stadtbad",
+      "ags": "9462",
+      "plz": "95444",
+      "ort": "Bayreuth",
+      "address": "Kolpingstraße 7",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.956351,
+        47.820314
+      ],
+      "label": "Impfzentrum Berchtesgadener Land (Mitterfelden)",
+      "ags": "9172",
+      "plz": "83404",
+      "ort": "Ainring",
+      "address": "Industriestraße 9",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.518255,
+        49.188907
+      ],
+      "label": "Krankenhaus Roding",
+      "ags": "9372",
+      "plz": "93426",
+      "ort": "Roding",
+      "address": "Arnulfstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.86041,
+        49.18408
+      ],
+      "label": "Sana-Klinik Bad Kötzting",
+      "ags": "9372",
+      "plz": "93444",
+      "ort": "Bad Kötzting",
+      "address": "Hauser Straße 42",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.902714,
+        50.225266
+      ],
+      "label": "Freizeitzentrum Witzmannsberg",
+      "ags": "9473",
+      "plz": "96482",
+      "ort": "Ahorn",
+      "address": "Badstraße 20A",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.472331583775663,
+        48.24010853198463
+      ],
+      "label": "Östlicher Parkplatz Karlsfelder See",
+      "ags": "9174",
+      "plz": "85757",
+      "ort": "Karlsfeld",
+      "address": "Erich-Strobl-Rundweg",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.434523,
+        48.256311
+      ],
+      "label": "Bayrisches Rotes Kreuz Dachau",
+      "ags": "9174",
+      "plz": "85221",
+      "ort": "Dachau",
+      "address": "Rotkreutzplatz 3 - 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.949717902222222,
+        48.8325932544818
+      ],
+      "label": "Festplatz Ackerloh",
+      "ags": "9271",
+      "plz": "94469",
+      "ort": "Deggendorf",
+      "address": "Ackerloh 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.682535,
+        48.565223
+      ],
+      "capacity": 300,
+      "label": "Dreifachturnhalle mit Hallenbad Wertingen",
+      "ags": "9773",
+      "plz": "86637",
+      "ort": "Wertingen",
+      "address": "Pestalozzistraße 12",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.48502,
+        48.65012
+      ],
+      "label": "Ehemalige Industriehalle",
+      "ags": "9279",
+      "plz": "84130",
+      "ort": "Salitersheim",
+      "address": "Salitersheimer Straße 2",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.754074,
+        48.710382
+      ],
+      "label": "Impfzentrum Donauwörth",
+      "ags": "9779",
+      "plz": "86609",
+      "ort": "Riedlingen",
+      "address": "Joseph-Gänsler-Straße 8",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.495665,
+        48.857978
+      ],
+      "label": "Impfzentrum Nördlingen",
+      "ags": "9779",
+      "plz": "86720",
+      "ort": "Nördlingen",
+      "address": "Nürnberger Straße 17",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.964949,
+        48.074182
+      ],
+      "label": "Impfzentrum Ebersberg",
+      "ags": "9175",
+      "plz": "85560",
+      "ort": "Ebersberg",
+      "address": "Sparkassenplatz 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.199061349596112,
+        48.884447129430896
+      ],
+      "label": "Volksfestplatz Schottenau",
+      "ags": "9176",
+      "plz": "85072",
+      "ort": "Eichstätt",
+      "address": "Volksfestplatz",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.469021,
+        48.806603
+      ],
+      "capacity": 300,
+      "label": "Landratsamt Eichstätt - Dienstleistungszentrum",
+      "ags": "9176",
+      "plz": "85101",
+      "ort": "Lenting",
+      "address": "Bahnhofstraße 16",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.91089,
+        48.30887
+      ],
+      "label": "Impfzentrum Erding",
+      "ags": "9177",
+      "plz": "85435",
+      "ort": "Erding",
+      "address": "Lodererplatz 14",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.00546,
+        49.591104
+      ],
+      "label": "Impfzentrum Erlangen",
+      "ags": "9562",
+      "plz": "91052",
+      "ort": "Erlangen",
+      "address": "Sedanstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.070702,
+        49.718289
+      ],
+      "label": "DON BOSCO Jugendwerk",
+      "ags": "9474",
+      "plz": "91301",
+      "ort": "Forchheim",
+      "address": "Bayreuther Straße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.748725,
+        48.409458
+      ],
+      "label": "Ehemalige General-von-Stein Kaserne Freising",
+      "ags": "9178",
+      "plz": "85356",
+      "ort": "Freising",
+      "address": "General-von-Stein-Straße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        13.54528,
+        48.806667
+      ],
+      "label": "Ehemaliger Kindermodeladen",
+      "ags": "9272",
+      "plz": "94078",
+      "ort": "Freyung",
+      "address": "Passauer Straße 9",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.222696,
+        48.162334
+      ],
+      "label": "Impfzentrum Fürstenfeldbruck",
+      "ags": "9179",
+      "plz": "82256",
+      "ort": "Fürstenfeldbruck",
+      "address": "Industriestraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.986684917703071,
+        49.47656371437365
+      ],
+      "label": "Ehemalige CURANUM Seniorenresidenz",
+      "ags": "9563",
+      "plz": "90762",
+      "ort": "Fürth",
+      "address": "Rosenstraße 16 - 20",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.095906,
+        47.489229
+      ],
+      "label": "Parkplatz Eisstadion & Wellenbad",
+      "ags": "9180",
+      "plz": "82467",
+      "ort": "Garmisch-Partenkirchen",
+      "address": "Am Eisstadion 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.3003105,
+        48.4320435
+      ],
+      "label": "Peri-Areal Günzburg",
+      "ags": "9774",
+      "plz": "89312",
+      "ort": "Günzburg",
+      "address": "Kimmerle-Ring 14",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.363405,
+        48.246199
+      ],
+      "label": "Pfarrzentrum St. Michael",
+      "ags": "9774",
+      "plz": "86381",
+      "ort": "Krumbach",
+      "address": "Mühlstraße 13",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.527275,
+        50.141651
+      ],
+      "label": "BRK Rettungswache Hofheim",
+      "ags": "9674",
+      "plz": "97461",
+      "ort": "Hofheim in Unterfranken",
+      "address": "Eichelsdorfer Straße 11",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.907401,
+        50.313839
+      ],
+      "label": "Ehemaliges Gebäude Firma MAN",
+      "ags": "9464",
+      "plz": "95030",
+      "ort": "Hof",
+      "address": "Ernst-Reuter-Straße 62",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.420131,
+        48.765119
+      ],
+      "label": "Orbansaal Ingolstadt",
+      "ags": "9161",
+      "plz": "85049",
+      "ort": "Ingolstadt",
+      "address": "Bergbräustraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.623446,
+        47.882761
+      ],
+      "label": "Ehemaliger Supermarkt",
+      "ags": "9762",
+      "plz": "87600",
+      "ort": "Kaufbeuren",
+      "address": "Alte Weberei 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.872686,
+        48.91484
+      ],
+      "capacity": 200,
+      "label": "Ehemaliges Landratsamt Kehlheim",
+      "ags": "9273",
+      "plz": "93309",
+      "ort": "Kehlheim",
+      "address": "Schlossweg 3",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.325388,
+        47.735603
+      ],
+      "label": "Ehemalige Artillerie-Kaserne Kempten",
+      "ags": "9763",
+      "plz": "87437",
+      "ort": "Kempten",
+      "address": "Kaufbeurer Straße 80",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.139830315061603,
+        49.7394924791991
+      ],
+      "label": "Klinik Kitzinger Land",
+      "ags": "9675",
+      "plz": "97318",
+      "ort": "Kitzingen",
+      "address": "Marshall-Heights-Ring 15-17",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.333919,
+        50.233618
+      ],
+      "label": "Ehemaliges Loewe-Areal",
+      "ags": "9476",
+      "plz": "96317",
+      "ort": "Kronach",
+      "address": "Industriestraße 11",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.452061,
+        50.108538
+      ],
+      "label": "Fritz-Einkaufszentrum",
+      "ags": "9477",
+      "plz": "95326",
+      "ort": "Kulmbach",
+      "address": "Fritz-Hornschuch-Straße 9",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.9231699,
+        48.0732628
+      ],
+      "label": "Ehemaliger Fliegerhorst Landsberg am Lech",
+      "ags": "9181",
+      "plz": "86929",
+      "ort": "Penzing",
+      "address": "Kauferinger Straße",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.158864,
+        48.498429
+      ],
+      "label": "Ehemals Drogerie-Rossmann",
+      "ags": "9274",
+      "plz": "84036",
+      "ort": "Landshut",
+      "address": "Ziegelfeldstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.189968,
+        48.55009
+      ],
+      "label": "Messepark Landshut",
+      "ags": "9261",
+      "plz": "84036",
+      "ort": "Landshut",
+      "address": "Niedermayerstraße 100",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.072719,
+        50.149027
+      ],
+      "label": "Impfzentrum Lichtenfels",
+      "ags": "9478",
+      "plz": "96215",
+      "ort": "Lichtenfels",
+      "address": "Gabelsbergerstraße 22",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        9.69662728827194,
+        47.55765258020918
+      ],
+      "label": "Sporthalle Schulzentrum Lindau",
+      "ags": "9776",
+      "plz": "88131",
+      "ort": "Lindau",
+      "address": "Reutiner Straße 10",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.8941704,
+        47.6132516
+      ],
+      "label": "Impfzentrum Lindau (Bodensee)",
+      "ags": "9776",
+      "plz": "88161",
+      "ort": "Lindenberg",
+      "address": "Nadenberg 30",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.574864,
+        49.990159
+      ],
+      "label": "Spessarttorhalle Lohr",
+      "ags": "9677",
+      "plz": "97816",
+      "ort": "Lohr am Main",
+      "address": "Lehmskaute 22",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.175096,
+        47.986128
+      ],
+      "label": "Erdgeschoss ehemalige Realschule Memmingen",
+      "ags": "9764",
+      "plz": "87700",
+      "ort": "Memmingen",
+      "address": "Buxacher Straße 8",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.834214,
+        47.754792
+      ],
+      "label": "Impfzentrum Miesbach",
+      "ags": "9182",
+      "plz": "83734",
+      "ort": "Hausham",
+      "address": "Alte Miesbacher Straße 11",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.229497,
+        49.703242
+      ],
+      "label": "Gelände der Helios Klinik Miltenberg",
+      "ags": "9676",
+      "plz": "63897",
+      "ort": "Miltenberg",
+      "address": "Breitendieler Straße 32",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.53639,
+        48.23616
+      ],
+      "label": "Ehemaliger dm-Markt Mühldorf",
+      "ags": "9183",
+      "plz": "84453",
+      "ort": "Mühldorf",
+      "address": "Mainstraße 1a",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.587022,
+        48.03092
+      ],
+      "label": "Impfzentrum Landkreis München",
+      "ags": "9184",
+      "plz": "82041",
+      "ort": "Oberaching",
+      "address": "Kolpingring 16",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.740521,
+        48.105897
+      ],
+      "label": "Ehemalige Polizeikaserne Haar",
+      "ags": "9184",
+      "plz": "85540",
+      "ort": "Haar",
+      "address": "Wasserburger Straße 43 - 47",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.586516194641698,
+        48.270313133001835
+      ],
+      "label": "Volksfestplatz",
+      "ags": "9184",
+      "plz": "85716",
+      "ort": "Unterschleißheim",
+      "address": "Am Volksfestplatz",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.692341,
+        48.134584
+      ],
+      "label": "Messe München",
+      "ags": "9162",
+      "plz": "81829",
+      "ort": "München",
+      "address": "Am Messesee 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.005521,
+        48.373951
+      ],
+      "label": "Areal Firma Nuvisan",
+      "ags": "9775",
+      "plz": "89231",
+      "ort": "Neu-Ulm",
+      "address": "Wegenerstraße 13",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.162241,
+        48.304837
+      ],
+      "label": "Ehemaliger Supermarkt",
+      "ags": "9775",
+      "plz": "89264",
+      "ort": "Weißenhorn",
+      "address": "Kammerlanderstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.105132,
+        48.225548
+      ],
+      "label": "Gesundheitszentrum Illertissen",
+      "ags": "9775",
+      "plz": "89257",
+      "ort": "Illertissen",
+      "address": "Krankenhausstraße 7",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.288141,
+        48.56254
+      ],
+      "label": "Impfzentrum Neuburg-Schrobenhausen",
+      "ags": "9185",
+      "plz": "86529",
+      "ort": "Schrobenhausen-Mühlried",
+      "address": "Rinderhofer Breite 11",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.473536127479893,
+        49.312796429574895
+      ],
+      "capacity": 300,
+      "label": "Ehemals Schlecker/Dartclub",
+      "ags": "9373",
+      "plz": "92348",
+      "ort": "Berg bei Neumarkt in der Oberpfalz",
+      "address": "Karl-Schiller-Straße 4",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.415062,
+        49.512199
+      ],
+      "label": "Kur- & Kongress-Center Bad Windsheim",
+      "ags": "9575",
+      "plz": "91438",
+      "ort": "Bad Windsheim",
+      "address": "Erkenbrechtallee 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.115248,
+        49.416991
+      ],
+      "label": "Messezentrum",
+      "ags": "9564",
+      "plz": "90471",
+      "ort": "Nürnberg",
+      "address": "Messezentrum 1",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.250991,
+        49.491398
+      ],
+      "label": "Impfzentrum Nürnberger Land",
+      "ags": "9574",
+      "plz": "90552",
+      "ort": "Röthenbach a. d. Pegnitz",
+      "address": "Sulzbacher Str. 47",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-29",
+      "coords": [
+        10.29261962742874,
+        47.517816716692465
+      ],
+      "label": "Sonthofener Grüntenkaserne",
+      "ags": "9780",
+      "plz": "87527",
+      "ort": "Sonthofen",
+      "address": "Salzweg 24",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.62484,
+        47.796595
+      ],
+      "label": "Gewerbehalle Marktoberdorf",
+      "ags": "9777",
+      "plz": "87616",
+      "ort": "Marktoberdorf",
+      "address": "Nordstraße 12",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        13.474496,
+        48.629926
+      ],
+      "capacity": 300,
+      "label": "Ehemaliges Möbelhaus B12",
+      "ags": "9275",
+      "plz": "94121",
+      "ort": "Salzweg",
+      "address": "Bayerwaldstraße 1A",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        13.411464,
+        48.557649
+      ],
+      "label": "X-Point Halle Passau",
+      "ags": "9262",
+      "plz": "94036",
+      "ort": "Passau",
+      "address": "Messestraße 12",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.623555648371054,
+        48.67690042817449
+      ],
+      "label": "Bisherige Fieberambulanz",
+      "ags": "9186",
+      "plz": "85290",
+      "ort": "Geisenfeld",
+      "address": "Königstraße 13",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.509759,
+        48.518334
+      ],
+      "label": "Impfzentrum Hettenhausen-Reisgang",
+      "ags": "9186",
+      "plz": "82676",
+      "ort": "Hettenhausen-Reisgang",
+      "address": "Sperl-Ring 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        13.15073,
+        48.962996
+      ],
+      "label": "Eisstadion Regen",
+      "ags": "9276",
+      "plz": "94209",
+      "ort": "Regen",
+      "address": "Poschetsrieder Straße 45",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.114986,
+        49.030293
+      ],
+      "capacity": 100,
+      "label": "Nebengebäude Landratsamt",
+      "ags": "9375",
+      "plz": "93059",
+      "ort": "Regensburg",
+      "address": "Altmühlstraße 1a",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        12.139531,
+        48.837029
+      ],
+      "capacity": 125,
+      "label": "Zentrum für Allgemeinmedizin",
+      "ags": "9375",
+      "plz": "84069",
+      "ort": "Schierling",
+      "address": "Rathausplatz 25",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.098427684344438,
+        49.026583078903634
+      ],
+      "label": "Impfzentrum Regensburg",
+      "ags": "9362",
+      "plz": "93059",
+      "ort": "Regensburg",
+      "address": "Dultplatz",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.210454,
+        50.322083
+      ],
+      "label": "Ehemalige Kreisklinik Bad Neustadt",
+      "ags": "9673",
+      "plz": "97616",
+      "ort": "Bad Neustadt an der Saale",
+      "address": "Goethestraße 9",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        12.125231,
+        47.860534
+      ],
+      "label": "Inntalhalle Rosenheim",
+      "ags": "9187",
+      "plz": "83022",
+      "ort": "Rosenheim",
+      "address": "Kapuzinerweg 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.117222,
+        49.249108
+      ],
+      "capacity": 300,
+      "label": "Ehemalige ALDI-Verwaltung",
+      "ags": "9576",
+      "plz": "91154",
+      "ort": "Roth",
+      "address": "Gildestraße 17",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.772386,
+        48.399477
+      ],
+      "label": "Rottgau-Halle Eggenfelden",
+      "ags": "9277",
+      "plz": "84307",
+      "ort": "Eggenfelden",
+      "address": "Grafenweg 13",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.023843,
+        49.319479
+      ],
+      "label": "Sportheim DJK-Schwabach",
+      "ags": "9565",
+      "plz": "91126",
+      "ort": "Schwabach",
+      "address": "Huttersbühlstraße 23",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        12.171128,
+        49.448348
+      ],
+      "label": "Gesundheits- und Betreuungszentrum",
+      "ags": "9376",
+      "plz": "92507",
+      "ort": "Nabburg",
+      "address": "Krankenhausstraße 25",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-23",
+      "coords": [
+        10.20262523869023,
+        50.047221069405005
+      ],
+      "label": "Ecke Am Volksfestplatz",
+      "ags": "9662",
+      "plz": "97421",
+      "ort": "Schweinfurt",
+      "address": "John-F.-Kennedy-Ring",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.352457,
+        48.066257
+      ],
+      "label": "Gelände Asklepios-Klinik Gauting",
+      "ags": "9188",
+      "plz": "82131",
+      "ort": "Gauting",
+      "address": "Robert-Koch-Allee 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.561757,
+        48.887509
+      ],
+      "label": "Impfzentrum Straubing",
+      "ags": "9263",
+      "plz": "94315",
+      "ort": "Straubing",
+      "address": "Am Hagen 75",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        12.561757,
+        48.887509
+      ],
+      "label": "Impfzentrum Straubing-Bogen",
+      "ags": "9278",
+      "plz": "94315",
+      "ort": "Straubing",
+      "address": "Am Hagen 75",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.308034,
+        50.006572
+      ],
+      "label": "Ehemaliges Krankenhaus Waldsassen",
+      "ags": "9377",
+      "plz": "95652",
+      "ort": "Waldsassen",
+      "address": "Egerer Straße 30",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        12.533156627442542,
+        48.007401116645234
+      ],
+      "label": "Containergelände am Auerbergtunnel",
+      "ags": "9189",
+      "plz": "83352",
+      "ort": "Altenmarkt an der Alz",
+      "address": "Trostberger Straße 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.598339,
+        48.019584
+      ],
+      "label": "Ehemaliges Möbelhaus",
+      "ags": "9778",
+      "plz": "86825",
+      "ort": "Bad Wörishofen",
+      "address": "Gottlieb-Daimler-Straße 26",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        12.16633,
+        49.68387
+      ],
+      "label": "BRK Kreisverband Weiden & Neustadt/Waldnaab",
+      "ags": "9363",
+      "plz": "92637",
+      "ort": "Weiden in der Oberpfalz",
+      "address": "Ulrich-Schönberger-Straße 11",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.071306,
+        47.799995
+      ],
+      "label": "Ehemaliges Krankenhaus Peißenberg",
+      "ags": "9190",
+      "plz": "82380",
+      "ort": "Peißenberg",
+      "address": "Hauptstraße 55 - 57",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        10.7855,
+        49.121124
+      ],
+      "label": "Altmühl-Center Gunzenhausen",
+      "ags": "9577",
+      "plz": "91710",
+      "ort": "Gunzenhausen",
+      "address": "Spitalfeldstraße 7 - 9",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.994138,
+        50.038297
+      ],
+      "label": "BRK Kreisverband Wunsiedel",
+      "ags": "9479",
+      "plz": "95632",
+      "ort": "Wunsiedel",
+      "address": "Rot-Kreuz-Straße 7",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        9.9713124,
+        49.6576584
+      ],
+      "label": "Flugplatz Giebelstadt (Hangar 3)",
+      "ags": "9679",
+      "plz": "97232",
+      "ort": "Giebelstadt",
+      "address": "Levi-Strauss-Straße 114",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        9.9009831,
+        49.7980201
+      ],
+      "label": "Talavera Würzburg",
+      "ags": "9663",
+      "plz": "97082",
+      "ort": "Zellerau",
+      "address": "Mainaustraße",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        13.274298,
+        52.501063
+      ],
+      "capacity": 3400,
+      "label": "Messe (Halle 11) (Charlottenburg-Wilmersdorf)",
+      "ags": "11000",
+      "plz": "14055",
+      "ort": "Westend",
+      "address": "Messedamm 22",
+      "kind": "ZIZ"
+    },
+    {
+      "coords": [
+        13.369941,
+        52.537437
+      ],
+      "capacity": 3400,
+      "label": "Erika-Heß-Eisstadion (Mitte)",
+      "ags": "11000",
+      "plz": "13353",
+      "ort": "Wedding",
+      "address": "Müllerstraße 185",
+      "kind": "ZIZ"
+    },
+    {
+      "coords": [
+        13.450703,
+        52.531153
+      ],
+      "capacity": 3400,
+      "label": "Velodrom (Pankow)",
+      "ags": "11000",
+      "plz": "10407",
+      "ort": "Prenzlauer Berg",
+      "address": "Paul-Heyse-Straße 26",
+      "kind": "ZIZ"
+    },
+    {
+      "coords": [
+        13.2959804,
+        52.5481435
+      ],
+      "capacity": 3400,
+      "label": "Flughafen Tegel Terminal C (Reinickendorf)",
+      "ags": "11000",
+      "plz": "13405",
+      "ort": "Tegel",
+      "address": "Saatwinkler Damm",
+      "kind": "ZIZ"
+    },
+    {
+      "coords": [
+        13.388997,
+        52.48258
+      ],
+      "capacity": 3400,
+      "label": "Flughafen Tempelhof (Hangar 4)",
+      "ags": "11000",
+      "plz": "12101",
+      "ort": "Tempelhof",
+      "address": "Platz der Luftbrücke 5",
+      "kind": "ZIZ"
+    },
+    {
+      "coords": [
+        13.454282,
+        52.496499
+      ],
+      "capacity": 3400,
+      "label": "Arena Berlin (Treptow-Köpenick)",
+      "ags": "11000",
+      "plz": "12435",
+      "ort": "Alt-Treptow",
+      "address": "Eichenstraße 4",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-27",
+      "coords": [
+        13.778529869911587,
+        52.8384143699836
+      ],
+      "capacity": 600,
+      "label": "Sportzentrum Westend",
+      "ags": "12060",
+      "plz": "16225",
+      "ort": "Eberswalde",
+      "address": "Heegermühler Straße 69a",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-26",
+      "coords": [
+        12.502968753289723,
+        52.4135238554894
+      ],
+      "capacity": 600,
+      "label": "Stahlpalast Brandenburg an der Havel",
+      "ags": "12051",
+      "plz": "14770",
+      "ort": "Brandenburg an der Havel",
+      "address": "Magdeburger Straße Landstraße 226",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-05",
+      "coords": [
+        14.348219,
+        51.750417
+      ],
+      "label": "Messe Cottbus",
+      "ags": "12052",
+      "plz": "03042",
+      "ort": "Cottbus",
+      "address": "Vorparkstraße 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        13.519011841054308,
+        52.38852756690838
+      ],
+      "label": "Flughafen Berlin-Schönefeld Terminal 5 / M",
+      "ags": "12061",
+      "plz": "12529",
+      "ort": "Schönefeld",
+      "address": "Terminal 5",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-19",
+      "coords": [
+        13.525140625573394,
+        51.4535826865196
+      ],
+      "capacity": 600,
+      "label": "Mehrzweckhalle Elsterwerda",
+      "ags": "12062",
+      "plz": "04910",
+      "ort": "Elsterwerda",
+      "address": "Am Elsterschloß 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-20",
+      "coords": [
+        14.496968,
+        52.343993
+      ],
+      "capacity": 600,
+      "label": "Messehalle 1 Frankfurt (Oder)",
+      "ags": "12053",
+      "plz": "15234",
+      "ort": "Frankfurt (Oder)",
+      "address": "Messering 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-21",
+      "coords": [
+        13.257588,
+        52.750076
+      ],
+      "capacity": 600,
+      "label": "TURM ErlebnisCity",
+      "ags": "12065",
+      "plz": "16515",
+      "ort": "Oranienburg",
+      "address": "André-Pican-Straße 42",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        12.391384,
+        52.950194
+      ],
+      "capacity": 600,
+      "label": "Sport- und Kulturzentrum Kyritz",
+      "ags": "12068",
+      "plz": "16866",
+      "ort": "Kyritz",
+      "address": "Perleberger Straße 8",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-05",
+      "coords": [
+        13.121017,
+        52.383606
+      ],
+      "label": "Metropolis-Halle (Filmpark Babelsberg)",
+      "ags": "12054",
+      "plz": "14482",
+      "ort": "Babelsberg",
+      "address": "Großbeerenstraße 200",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-02",
+      "coords": [
+        13.150815,
+        52.090941
+      ],
+      "capacity": 600,
+      "label": "Fläminghalle Luckenwalde",
+      "ags": "12072",
+      "plz": "14943",
+      "ort": "Luckenwalde",
+      "address": "Weinberge 39",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        13.822729,
+        53.301435
+      ],
+      "capacity": 600,
+      "label": "Turnhalle Gesamtschule Carl Friedrich Grabow",
+      "ags": "12073",
+      "plz": "17291",
+      "ort": "Prenzlau",
+      "address": "Berliner Straße 29",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        8.811623,
+        53.088881
+      ],
+      "capacity": null,
+      "label": "Messehalle 7",
+      "ags": "4011",
+      "plz": "28215",
+      "ort": "Findorff",
+      "address": "Findorffstraße 101",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2020-12-27",
+      "coords": [
+        8.591612,
+        53.554876
+      ],
+      "capacity": 300,
+      "label": "Stadthalle Bremerhaven",
+      "ags": "4012",
+      "plz": "27576",
+      "ort": "Bremerhaven",
+      "address": "Wilhelm-Kaisen-Platz 1",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        9.975432,
+        53.563316
+      ],
+      "capacity": 7000,
+      "label": "Hamburger Messehallen",
+      "ags": "2000",
+      "plz": "20357",
+      "ort": "Sternschanze",
+      "address": "Messeplatz 1",
+      "kind": "ZIZ"
+    },
+    {
+      "coords": [
+        8.607585,
+        49.688088
+      ],
+      "label": "Bürogebäude (Nähe Festplatz)",
+      "ags": "6431",
+      "plz": "64625",
+      "ort": "Bensheim",
+      "address": "Berliner Ring 89",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-19",
+      "coords": [
+        8.657636399489357,
+        49.87445203818136
+      ],
+      "label": "Kongresszentrum Darmstadtium",
+      "ags": "6411",
+      "plz": "64283",
+      "ort": "Darmstadt",
+      "address": "Schloßgraben 1",
+      "kind": "ZIZ"
+    },
+    {
+      "coords": [
+        8.615963,
+        49.8131
+      ],
+      "capacity": 1500,
+      "label": "Impfzentrum DADI West",
+      "ags": "6432",
+      "plz": "64319",
+      "ort": "Pfungstadt",
+      "address": "Ostendstraße 3",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.8405957,
+        49.8321193
+      ],
+      "capacity": 1500,
+      "label": "Impfzentrum DADI Ost",
+      "ags": "6432",
+      "plz": "64354",
+      "ort": "Reinheim",
+      "address": "Am Sportzentrum 1A",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-19",
+      "coords": [
+        8.645142,
+        50.112234
+      ],
+      "label": "Messegelände Messe Frankfurt",
+      "ags": "6412",
+      "plz": "60327",
+      "ort": "Frankfurt am Main",
+      "address": "Ludwig-Erhard-Anlage 1",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-19",
+      "coords": [
+        9.68395,
+        50.55687
+      ],
+      "capacity": 1000,
+      "label": "Waideshalle Esperanto Kongress- & Kulturzentrum",
+      "ags": "6631",
+      "plz": "36037",
+      "ort": "Fulda",
+      "address": "Esperantoplatz 1",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-19",
+      "coords": [
+        8.634583,
+        50.577846
+      ],
+      "capacity": 1350,
+      "label": "Obergeschoss des ROLLER-Marktes",
+      "ags": "6531",
+      "plz": "35452",
+      "ort": "Heuchelheim",
+      "address": "Ludwig-Rinn-Straße 49",
+      "kind": "ZIZ"
+    },
+    {
+      "coords": [
+        8.476581,
+        49.915507
+      ],
+      "capacity": 1000,
+      "label": "Sporthallen Martin-Buber-Schule",
+      "ags": "6433",
+      "plz": "64521",
+      "ort": "Groß-Gerau",
+      "address": "Wilhelm-SeippStraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.73440045262004,
+        51.004202801274296
+      ],
+      "capacity": 1000,
+      "label": "Göbel Hotelsl Arena",
+      "ags": "6632",
+      "plz": "36199",
+      "ort": "Rotenburg an der Fulda",
+      "address": "Heinz-Meise-Straße 190",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.647776,
+        50.211635
+      ],
+      "capacity": 1000,
+      "label": "Ehemaliges Hewlett-Packard Gebäude",
+      "ags": "6434",
+      "plz": "61352",
+      "ort": "Bad Homburg",
+      "address": "Am grünen Weg 1",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.376251969440236,
+        51.403665058521206
+      ],
+      "capacity": 1200,
+      "label": "Impfzentrum LK Kassel (Alter Flugplatz)",
+      "ags": "6633",
+      "plz": "34379",
+      "ort": "Calden",
+      "address": "Flugplatz 38",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-19",
+      "coords": [
+        9.484302,
+        51.296694
+      ],
+      "label": "Großsporthalle Am Auepark",
+      "ags": "6611",
+      "plz": "34121",
+      "ort": "Kassel",
+      "address": "Damaschkestraße 25",
+      "kind": "ZIZ"
+    },
+    {
+      "coords": [
+        8.54913,
+        50.58222
+      ],
+      "label": "Lahnauhalle",
+      "ags": "6532",
+      "plz": "35633",
+      "ort": "Lahnau",
+      "address": "Geraberger Platz 2",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.077737,
+        50.403239
+      ],
+      "capacity": 1000,
+      "label": "Ehemalige LIO Limburger Offset-Druckerei",
+      "ags": "6533",
+      "plz": "65553",
+      "ort": "Dietkirchen",
+      "address": "Senefelderstraße 2",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.18412,
+        50.20015
+      ],
+      "capacity": 1000,
+      "label": "Großsporthalle",
+      "ags": "6435",
+      "plz": "63571",
+      "ort": "Gelnhausen",
+      "address": "Lohnmühlenweg 32",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.920518,
+        50.149245
+      ],
+      "capacity": 1000,
+      "label": "August-Schärttner-Halle",
+      "ags": "6435",
+      "plz": "63452",
+      "ort": "Hanau",
+      "address": "Martin-Luther-King-Straße 48",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.457641,
+        50.056226
+      ],
+      "label": "Verwaltungszentrum am Regionalparkturm",
+      "ags": "6436",
+      "plz": "65795",
+      "ort": "Hattersheim",
+      "address": "Mainzer Landstraße 500",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.768367010763054,
+        50.83233936732233
+      ],
+      "capacity": 1000,
+      "label": "Messegelände Afföller",
+      "ags": "6534",
+      "plz": "35039",
+      "ort": "Marburg",
+      "address": "Afföllerstraße 106",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.995451,
+        49.661862
+      ],
+      "capacity": 1000,
+      "label": "Wiesenmarkt-Gelände",
+      "ags": "6437",
+      "plz": "64711",
+      "ort": "Erbach",
+      "address": "Obere Marktstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.79974,
+        50.06323
+      ],
+      "label": "Campus Heusenstamm",
+      "ags": "6438",
+      "plz": "63150",
+      "ort": "Heusenstamm",
+      "address": "Jahnstraße 64",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.776829,
+        50.082941
+      ],
+      "capacity": null,
+      "label": "Stadthalle Offenbach",
+      "ags": "6413",
+      "plz": "63071",
+      "ort": "Offenbach am Main",
+      "address": "Waldstraße 312",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.114375,
+        50.036073
+      ],
+      "capacity": 1000,
+      "label": "Sporthallen am Wiesweg Eltville",
+      "ags": "6439",
+      "plz": "65343",
+      "ort": "Eltville am Rhein",
+      "address": "Wiesweg 7",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.287083184052142,
+        51.124177833095594
+      ],
+      "label": "Besucher-Parkplatz Georg-Friedrich-Kaserne",
+      "ags": "6634",
+      "plz": "34560",
+      "ort": "Fritzlar",
+      "address": "Berliner Straße",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.251739,
+        50.738605
+      ],
+      "label": "Hessenhalle Alsfeld",
+      "ags": "6535",
+      "plz": "36304",
+      "ort": "Alsfeld",
+      "address": "An der Hessenhalle 1",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.859674,
+        51.272763
+      ],
+      "capacity": 1000,
+      "label": "Großsporthalle \"Auf der Hauer\"",
+      "ags": "6635",
+      "plz": "34497",
+      "ort": "Korbach",
+      "address": "Karpatenstraße 20",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.030098,
+        51.184521
+      ],
+      "label": "Sporthalle Eschwege",
+      "ags": "6636",
+      "plz": "37269",
+      "ort": "Eschwege",
+      "address": "Sürdring 37",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.109869,
+        50.269843
+      ],
+      "capacity": 1000,
+      "label": "Ehemaliger OBI-Markt",
+      "ags": "6440",
+      "plz": "63654",
+      "ort": "Büdingen",
+      "address": "Industriestraße 46",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-19",
+      "coords": [
+        8.244877,
+        50.077134
+      ],
+      "capacity": 1500,
+      "label": "RheinMain-Congress Center Wiesbaden",
+      "ags": "6414",
+      "plz": "65185",
+      "ort": "Wiesbaden",
+      "address": "Friedrich-Ebert-Allee 1",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.502222264863796,
+        53.32155947528814
+      ],
+      "label": "Stadthalle Ludwigslust",
+      "ags": "13076",
+      "plz": "19288",
+      "ort": "Ludwigslust",
+      "address": "Christian-Ludwig-Straße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.846719105244114,
+        53.42425900788496
+      ],
+      "label": "Stadthalle Parchim",
+      "ags": "13076",
+      "plz": "19370",
+      "ort": "Parchim",
+      "address": "Putlitzer Str. 56",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        13.29956,
+        53.6046
+      ],
+      "label": "Flughafen Neubrandenburg/Trollenhagen",
+      "ags": "13071",
+      "plz": "17039",
+      "ort": "Trollenhagen",
+      "address": "Flughafenstraße 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.646814508218709,
+        53.521366364815876
+      ],
+      "label": "Überregionales Ausbildungszentrum (ÜAZ)",
+      "ags": "13071",
+      "plz": "17192",
+      "ort": "Waren (Müritz)",
+      "address": "Warendorfer Straße 14",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.435080325965655,
+        53.88473124060541
+      ],
+      "label": "Geriatrische Tagesklinik/Sana-Klinikum Wismar",
+      "ags": "13074",
+      "plz": "23966",
+      "ort": "Wismar",
+      "address": "Störtebekerstraße 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.194619,
+        53.86699
+      ],
+      "label": "Gebäudeteil des bestehenden Testzentrums",
+      "ags": "13074",
+      "plz": "23936",
+      "ort": "Grevesmühlen",
+      "address": "Am Ploggensee 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.286109,
+        53.914171
+      ],
+      "label": "Impfzentrum Flughafen Rostock-Laage",
+      "ags": "13072",
+      "plz": "18299",
+      "ort": "Laage",
+      "address": "Flughafenstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        12.073230462963101,
+        54.138869677292256
+      ],
+      "label": "Hansemesse",
+      "ags": "13003",
+      "plz": "18106",
+      "ort": "Rostock",
+      "address": "Zur Hansemesse 1-2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        11.39339,
+        53.6269
+      ],
+      "capacity": 600,
+      "label": "Sport- & Kongresshalle Schwerin",
+      "ags": "13004",
+      "plz": "19059",
+      "ort": "Schwerin",
+      "address": "Wittenburger Straße 118",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        13.98882374691702,
+        53.50240373429857
+      ],
+      "label": "Impzentrum Pasewalk",
+      "ags": "13075",
+      "plz": "17309",
+      "ort": "Pasewalk",
+      "address": "Große Kirchstr. 18",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        13.373271717778243,
+        54.08291062638477
+      ],
+      "label": "Impfzentrum Greifswald",
+      "ags": "13075",
+      "plz": "17489",
+      "ort": "Greifswald",
+      "address": "Brandteichstraße 20",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        13.036397814755267,
+        54.303540798069804
+      ],
+      "label": "SIC-Gelände (Rostocker Chaussee)",
+      "ags": "13073",
+      "plz": "18437",
+      "ort": "Stralsund",
+      "address": "Rostocker Chaussee 110",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        7.989366,
+        53.197227
+      ],
+      "label": "Erweiterungsbau Berufsbildende Schule",
+      "ags": "3451",
+      "plz": "26160",
+      "ort": "Bad Zwischenahn-Rostrup",
+      "address": "Virchowstraße 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        7.326604,
+        53.477591
+      ],
+      "label": "Sporthalle",
+      "ags": "3452",
+      "plz": "26624",
+      "ort": "Südbrookmerland",
+      "address": "Georgsheiler Weg 52",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.539223,
+        52.25736
+      ],
+      "label": "Stadthalle Braunschweig",
+      "ags": "3101",
+      "plz": "38102",
+      "ort": "Braunschweig",
+      "address": "Leonhardplatz 14",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.079654,
+        52.615304
+      ],
+      "label": "CD-Kaserne",
+      "ags": "3351",
+      "plz": "29221",
+      "ort": "Celle",
+      "address": "Hannoversche Straße 30b",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        7.950089,
+        52.920275
+      ],
+      "label": "Jugendherberge",
+      "ags": "3453",
+      "plz": "49681",
+      "ort": "Garrel-Petersfeld",
+      "address": "Am Campingplatz 7",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.711865,
+        53.867441
+      ],
+      "label": "Veranstaltungshalle",
+      "ags": "3352",
+      "plz": "27472",
+      "ort": "Cuxhaven",
+      "address": "Lentzstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.627606,
+        53.05448
+      ],
+      "label": "Sporthalle",
+      "ags": "3401",
+      "plz": "27749",
+      "ort": "Delmenhorst",
+      "address": "Am Wehrhahn 6",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.729005,
+        52.844294
+      ],
+      "label": "Klinik Bassum",
+      "ags": "3251",
+      "plz": "27211",
+      "ort": "Bassum",
+      "address": "Marie-Hackfeld-Straße 6",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        7.203063,
+        53.377305
+      ],
+      "label": "Veranstaltungshalle",
+      "ags": "3402",
+      "plz": "26721",
+      "ort": "Emden",
+      "address": "Früchteburger Straße 17 - 19",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        7.313959,
+        52.513937
+      ],
+      "label": "Veranstaltungshalle",
+      "ags": "3454",
+      "plz": "49808",
+      "ort": "Lingen (Ems)",
+      "address": "Lindenstraße 24a",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        7.386985,
+        53.087212
+      ],
+      "label": "Stadthalle",
+      "ags": "3454",
+      "plz": "26871",
+      "ort": "Papenburg",
+      "address": "Ölmühlenweg 9",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.033467,
+        53.527934
+      ],
+      "label": "Ehemalige Schule",
+      "ags": "3455",
+      "plz": "26419",
+      "ort": "Schortens-Roffhausen",
+      "address": "Potsdamer Straße 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.535615,
+        52.485289
+      ],
+      "capacity": 380,
+      "label": "Stadthalle Gifhorn",
+      "ags": "3151",
+      "plz": "38518",
+      "ort": "Gifhorn",
+      "address": "Schützenplatz 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.479803,
+        51.901099
+      ],
+      "label": "Sporthalle",
+      "ags": "3153",
+      "plz": "38642",
+      "ort": "Goslar-Oker",
+      "address": "Bei der Eiche 5",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.924104,
+        51.539063
+      ],
+      "capacity": 1000,
+      "label": "Sporthalle BBS II Göttingen",
+      "ags": "3159",
+      "plz": "37081",
+      "ort": "Göttingen",
+      "address": "Godehardstraße 11",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.33874,
+        51.652573
+      ],
+      "capacity": 1000,
+      "label": "Sporthalle OBS Herzberg",
+      "ags": "3159",
+      "plz": "37412",
+      "ort": "Herzberg am Harz",
+      "address": "Heidestraße 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.8822,
+        51.51998
+      ],
+      "capacity": null,
+      "label": "Impfzentrum Siekhöhe",
+      "ags": "3159",
+      "plz": "37081",
+      "ort": "Göttingen",
+      "address": "Anna-Vandenhoeck-Ring 13",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        7.066708,
+        52.427867
+      ],
+      "label": "Gewerbehalle",
+      "ags": "3456",
+      "plz": "48529",
+      "ort": "Nordhorn",
+      "address": "Paulstraße 4 - 8",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.3418187,
+        52.1221777
+      ],
+      "label": "Unterkunftsgebäude",
+      "ags": "3252",
+      "plz": "31787",
+      "ort": "Hameln",
+      "address": "Reimerdeskamp",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.209412,
+        53.350826
+      ],
+      "label": "Stadthalle",
+      "ags": "3353",
+      "plz": "21423",
+      "ort": "Winsen (Luhe)",
+      "address": "Luhdorfer Straße 29",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.870507,
+        53.331367
+      ],
+      "label": "Veranstaltungshalle",
+      "ags": "3353",
+      "plz": "21244",
+      "ort": "Buchholz",
+      "address": "Richard-Schmidt-Straße 27",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.700335,
+        52.873299
+      ],
+      "label": "Veranstaltungshalle",
+      "ags": "3358",
+      "plz": "29683",
+      "ort": "Bad Fallingbostel",
+      "address": "Soltauer Straße 39",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.998955,
+        52.218926
+      ],
+      "label": "Sporthalle",
+      "ags": "3154",
+      "plz": "38350",
+      "ort": "Helmstedt",
+      "address": "Kantstraße 27",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.832932,
+        51.988879
+      ],
+      "label": "Willi-Nikulka-Sporthalle",
+      "ags": "3254",
+      "plz": "31061",
+      "ort": "Alfeld",
+      "address": "Kalandstraße 19",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.938254,
+        52.169162
+      ],
+      "label": "Sporthalle BBS Steuerwald",
+      "ags": "3254",
+      "plz": "31137",
+      "ort": "Hildesheim",
+      "address": "Steuerwalder Straße 158",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.468453,
+        51.840396
+      ],
+      "label": "Gewerbehalle",
+      "ags": "3255",
+      "plz": "37603",
+      "ort": "Holzminden",
+      "address": "Zeppelinstraße 6",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        7.588991,
+        53.30655
+      ],
+      "label": "Ehemalige Wilhelm-Busch-Schule Hesel",
+      "ags": "3457",
+      "plz": "26835",
+      "ort": "Hesel",
+      "address": "An der Schule 6",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.457613333526028,
+        53.244518695517364
+      ],
+      "label": "Gewerbehalle Frima Deerberg",
+      "ags": "3355",
+      "plz": "21337",
+      "ort": "Lüneburg",
+      "address": "Zeppelinstraße",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.227164,
+        52.692145
+      ],
+      "label": "Ehemalige Schule",
+      "ags": "3256",
+      "plz": "31623",
+      "ort": "Drankenburg",
+      "address": "Weserwerg 48",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.995928,
+        51.705907
+      ],
+      "label": "Stadthalle",
+      "ags": "3155",
+      "plz": "37154",
+      "ort": "Northeim",
+      "address": "Medenheimer Straße 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.22681,
+        53.14747
+      ],
+      "label": "Messehalle Oldenburg",
+      "ags": "3403",
+      "plz": "26123",
+      "ort": "Oldenburg",
+      "address": "Europaplatz 12",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.414613,
+        52.895241
+      ],
+      "label": "Ehemaliger EURONICS XXL-Markt",
+      "ags": "3458",
+      "plz": "27793",
+      "ort": "Wildeshausen",
+      "address": "Westring 7",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.004221,
+        52.357886
+      ],
+      "label": "Ehemaliges ToysЯUs-Spielwarengeschäft",
+      "ags": "3459",
+      "plz": "49134",
+      "ort": "Wallenhorst",
+      "address": "Borsigstraße 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.05693,
+        52.204851
+      ],
+      "label": "Ehemals Möbel Mayer",
+      "ags": "3459",
+      "plz": "49124",
+      "ort": "Georgsmarienhütte",
+      "address": "Leimbrink 1 - 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.040877,
+        52.270919
+      ],
+      "label": "Schlosswallhalle Osnabrück",
+      "ags": "3404",
+      "plz": "49080",
+      "ort": "Osnabrück",
+      "address": "Schlosswall 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.79628,
+        53.21916
+      ],
+      "label": "Stadthalle Osterholz-Scharmbeck",
+      "ags": "3356",
+      "plz": "27711",
+      "ort": "Osterholz-Scharmbeck",
+      "address": "Jacob-Frerichs-Straße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.247371,
+        52.320371
+      ],
+      "label": "Industriehalle",
+      "ags": "3157",
+      "plz": "31224",
+      "ort": "Peine",
+      "address": "Woltorfer Straße 77a",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.800642,
+        52.32333
+      ],
+      "label": "Messegelände Hannover",
+      "ags": "3241",
+      "plz": "30521",
+      "ort": "Hannover-Mittelfeld",
+      "address": "Messegelände Halle 25",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.282898,
+        53.302944
+      ],
+      "label": "Ehemaliges Krankenhaus",
+      "ags": "3357",
+      "plz": "27404",
+      "ort": "Zeven",
+      "address": "Dr.-Otto-Straße 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.361757,
+        52.1588316
+      ],
+      "label": "Unterkunftsgebäude",
+      "ags": "3102",
+      "plz": "38229",
+      "ort": "Salzgitter",
+      "address": "Hans-Birnbaum-Straße 30 - 32",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.19749,
+        52.323217
+      ],
+      "label": "Festhalle",
+      "ags": "3257",
+      "plz": "31655",
+      "ort": "Stadthagen",
+      "address": "Enzer Straße 19a",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.501774,
+        53.568935
+      ],
+      "capacity": 1000,
+      "label": "Gewerbegebiet Stade-Ottenbeck",
+      "ags": "3359",
+      "plz": "21684",
+      "ort": "Stade",
+      "address": "Sophie-Scholl-Weg 24",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.556546,
+        52.974174
+      ],
+      "label": "Stadthalle",
+      "ags": "3360",
+      "plz": "29525",
+      "ort": "Uelzen",
+      "address": "Am Schützenplatz 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.169504,
+        52.659191
+      ],
+      "capacity": 1000,
+      "label": "Impfzentrum im Motorpark Lohne (Road Sound GmbH)",
+      "ags": "3460",
+      "plz": "49393",
+      "ort": "Lohne (Oldenburg)",
+      "address": "Robert-Bosch-Straße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        9.25081,
+        52.92614
+      ],
+      "label": "Containerbau am Kreishaus",
+      "ags": "3361",
+      "plz": "27283",
+      "ort": "Verden (Aller)",
+      "address": "Lindhooper Straße 67a",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.481438,
+        53.323359
+      ],
+      "label": "Ehemalige Schule",
+      "ags": "3461",
+      "plz": "26919",
+      "ort": "Brake",
+      "address": "Kirchenstraße 17",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        8.07555,
+        53.52133
+      ],
+      "label": "Ehemaliger ALDI-Markt",
+      "ags": "3405",
+      "plz": "26389",
+      "ort": "Wilhelmshaven-Ebkeriege",
+      "address": "Güterstraße 48a",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        7.609042,
+        53.654983
+      ],
+      "label": "Jugendherberge",
+      "ags": "3462",
+      "plz": "26427",
+      "ort": "Esens-Bensersiel",
+      "address": "Grashauser Flage 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.570114,
+        52.166983
+      ],
+      "capacity": 120,
+      "label": "KOMM Wolfenbüttel",
+      "ags": "3158",
+      "plz": "38302",
+      "ort": "Wolfenbüttel",
+      "address": "Schweigerstraße 8",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-28",
+      "coords": [
+        10.779677945756987,
+        52.417481255087544
+      ],
+      "label": "CongressPark",
+      "ags": "3103",
+      "plz": "38440",
+      "ort": "Wolfsburg",
+      "address": "Heinrich-Heine-Straße",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        8.53473,
+        52.02895
+      ],
+      "label": "Ausstellungshalle Stadthalle Bielefeld",
+      "ags": "5711",
+      "plz": "33602",
+      "ort": "Bielefeld",
+      "address": "Willy-Brandt-Platz 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.233471,
+        51.49037
+      ],
+      "capacity": null,
+      "label": "RuhrCongress Bochum",
+      "ags": "5911",
+      "plz": "44791",
+      "ort": "Bochum",
+      "address": "Stadionring 20",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.124395,
+        50.719414
+      ],
+      "label": "World Conference Center Bonn",
+      "ags": "5314",
+      "plz": "53113",
+      "ort": "Bonn",
+      "address": "Platz der Vereinten Nationen 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.953962180255912,
+        51.94006822961403
+      ],
+      "capacity": 1500,
+      "label": "Interkommunaler Bauhof Gescher",
+      "ags": "5554",
+      "plz": "46342",
+      "ort": "Velen",
+      "address": "Schlatt 23",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.924612,
+        51.511504
+      ],
+      "label": "Impfzentrum Stadt Bottrop",
+      "ags": "5512",
+      "plz": "46242",
+      "ort": "Bottrop",
+      "address": "Südring 79",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.290666,
+        51.844856
+      ],
+      "label": "Impfzentrum Kreis Coesfeld",
+      "ags": "5558",
+      "plz": "48249",
+      "ort": "Dülmen",
+      "address": "An der Lehmkuhle 87",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.48855982875367,
+        51.488326246811965
+      ],
+      "label": "Warsteiner Music Hall Dortmund",
+      "ags": "5913",
+      "plz": "44263",
+      "ort": "Dortmund",
+      "address": "Phoenixplatz 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.756984,
+        51.429116
+      ],
+      "label": "Theater am Marientor Duisburg",
+      "ags": "5112",
+      "plz": "47051",
+      "ort": "Duisburg",
+      "address": "Plessingstraße 20",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.466743349131565,
+        50.79548913931701
+      ],
+      "label": "Ehemaliges Telekom-Gebäude",
+      "ags": "5358",
+      "plz": "52355",
+      "ort": "Düren",
+      "address": "Am Ellernbusch 18-20",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.734249,
+        51.260781
+      ],
+      "capacity": 2400,
+      "label": "Merkur Spiel-Arena",
+      "ags": "5111",
+      "plz": "40474",
+      "ort": "Düsseldorf",
+      "address": "Arena-Straße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.330709,
+        51.297005
+      ],
+      "capacity": 1000,
+      "label": "Ehemaliger ALDI-Markt Ennepetal",
+      "ags": "5954",
+      "plz": "58256",
+      "ort": "Ennepetal",
+      "address": "Kölner Straße 205",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.998233,
+        51.430288
+      ],
+      "capacity": 2100,
+      "label": "MESSE Essen Halle 4",
+      "ags": "5113",
+      "plz": "45131",
+      "ort": "Essen",
+      "address": "Messeplatz 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.573544,
+        50.482257
+      ],
+      "label": "Kreis-Krankenhilfeeinrichtung Marmagen",
+      "ags": "5366",
+      "plz": "53947",
+      "ort": "Nettersheim-Marmagen",
+      "address": "Dr. Konrad-Adenauer-Str. 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.073551,
+        51.553088
+      ],
+      "capacity": 1000,
+      "label": "Emscher-Lippe-Halle Gelsenkirchen",
+      "ags": "5513",
+      "plz": "45891",
+      "ort": "Gelsenkirchen",
+      "address": "Adenauerallee 118",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        8.3248502,
+        51.9256323
+      ],
+      "label": "Ehemaliger Supermarkt \"NAAFI-Shop\"",
+      "ags": "5754",
+      "plz": "33330",
+      "ort": "Gütersloh",
+      "address": "Marienfelder Straße 351",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.484188,
+        51.353392
+      ],
+      "capacity": null,
+      "label": "Stadthalle im Wasserlosen Tal Hagen",
+      "ags": "5914",
+      "plz": "58093",
+      "ort": "Hagen",
+      "address": "Wasserloses Tal 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.829316,
+        51.681444
+      ],
+      "capacity": 600,
+      "label": "Dreifachsporthalle Friedensschule",
+      "ags": "5915",
+      "plz": "59063",
+      "ort": "Hamm",
+      "address": "Marker Allee 20",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.3054436,
+        51.0612646
+      ],
+      "label": "Impfzentrum Heinsberg",
+      "ags": "5370",
+      "plz": "41812",
+      "ort": "Erkelenz",
+      "address": "Brüsseler Allee 5",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        8.589443,
+        52.166801
+      ],
+      "capacity": null,
+      "label": "Impfzentrum Herford",
+      "ags": "5758",
+      "plz": "32130",
+      "ort": "Enger",
+      "address": "Bustedter Weg 16",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.254309771417027,
+        51.53256248916231
+      ],
+      "label": "Gysenberghalle",
+      "ags": "5916",
+      "plz": "44627",
+      "ort": "Herne",
+      "address": "Am Revierpark 22",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        8.486438,
+        51.353349
+      ],
+      "label": "Konzerthalle Olsberg",
+      "ags": "5958",
+      "plz": "59939",
+      "ort": "Olsberg",
+      "address": "Ruhrstraße 20",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        9.19309,
+        51.716
+      ],
+      "label": "Stadthalle Brakel",
+      "ags": "5762",
+      "plz": "33034",
+      "ort": "Brakel",
+      "address": "Am Schützenanger 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.326288,
+        51.762612
+      ],
+      "capacity": 5000,
+      "label": "Messe Kalkar",
+      "ags": "5154",
+      "plz": "47546",
+      "ort": "Kalkar",
+      "address": "Griether Straße 110 - 120",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.983835,
+        50.948009
+      ],
+      "label": "Impfzentrum Koelnmesse",
+      "ags": "5315",
+      "plz": "50679",
+      "ort": "Köln",
+      "address": "Messeplatz 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.58386398386787,
+        51.3364920332638
+      ],
+      "label": "Sprödentalplatz",
+      "ags": "5114",
+      "plz": "47799",
+      "ort": "Krefeld",
+      "address": "Sprödentalplatz",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.980986,
+        51.034451
+      ],
+      "label": "Bayer Erholungshaus",
+      "ags": "5316",
+      "plz": "51373",
+      "ort": "Leverkusen",
+      "address": "Nobelstraße 37",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        8.907733,
+        52.017124
+      ],
+      "label": "Phoenix Contact Arena",
+      "ags": "5766",
+      "plz": "32657",
+      "ort": "Lemgo",
+      "address": "Bunsenstraße 39",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.643957,
+        51.219332
+      ],
+      "label": "Historische Schützenhalle Loh",
+      "ags": "5962",
+      "plz": "58511",
+      "ort": "Lüdenscheid",
+      "address": "Reckenstraße 6",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.662824,
+        51.378827
+      ],
+      "label": "Ehemaliges Kottmann-Gebäude",
+      "ags": "5962",
+      "plz": "58638",
+      "ort": "Iserlohn",
+      "address": "Lanferkamp 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.9377386,
+        51.2205562
+      ],
+      "capacity": 1700,
+      "label": "TIMOCOM Gebäude B",
+      "ags": "5158",
+      "plz": "40699",
+      "ort": "Erkrath",
+      "address": "Timocom-Platz 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        8.7677,
+        52.295388
+      ],
+      "label": "Mehrzweck-Sporthalle Unterlübbe",
+      "ags": "5770",
+      "plz": "32479",
+      "ort": "Hille",
+      "address": "Schulstraße 18",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.3910836,
+        51.1798001
+      ],
+      "capacity": 1000,
+      "label": "Impfzentrum Mönchengladbach",
+      "ags": "5116",
+      "plz": "41068",
+      "ort": "Mönchengladbach",
+      "address": "Am Nordpark 260",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.84971,
+        51.423685
+      ],
+      "label": "Ehemaliges Tengelmann-Gelände Speldorf",
+      "ags": "5117",
+      "plz": "45478",
+      "ort": "Mülheim an der Ruhr",
+      "address": "Wissollstraße 5 - 43",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.6378733255380835,
+        51.948011118027814
+      ],
+      "capacity": 2000,
+      "label": "Halle Münsterland (Teilbereich)",
+      "ags": "5515",
+      "plz": "48155",
+      "ort": "Münster",
+      "address": "Albersloher Weg 32",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.563911,
+        51.027325
+      ],
+      "label": "Bergischer Hof (ehemalige Karstadt-Räumlichkeiten)",
+      "ags": "5374",
+      "plz": "51643",
+      "ort": "Gummersbach",
+      "address": "Brückenstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.851641317692069,
+        51.46534601168154
+      ],
+      "label": "Willy-Jürissen-Halle",
+      "ags": "5119",
+      "plz": "46045",
+      "ort": "Oberhausen",
+      "address": "Lothringer Straße 75",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.918866,
+        51.13266
+      ],
+      "label": "Impfzentrum Olpe",
+      "ags": "5966",
+      "plz": "57439",
+      "ort": "Attendorn",
+      "address": "Heggener Weg 34",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        8.600557,
+        51.669767
+      ],
+      "capacity": 1000,
+      "label": "Sälzerhalle Salzkotten",
+      "ags": "5774",
+      "plz": "33154",
+      "ort": "Salzkotten",
+      "address": "Upsprunger Straße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.202726438990793,
+        51.610013658385455
+      ],
+      "capacity": 2000,
+      "label": "Konrad-Adenauer-Platz",
+      "ags": "5562",
+      "plz": "45657",
+      "ort": "Recklinghausen",
+      "address": "Konrad-Adenauer-Platz",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.151731,
+        51.165448
+      ],
+      "label": "Sporthalle West Reinshagen",
+      "ags": "5120",
+      "plz": "42857",
+      "ort": "Reinshagen",
+      "address": "Wallburgstraße 23",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.877509886462739,
+        50.87923934358786
+      ],
+      "label": "Einkaufszentrum Hürth Park",
+      "ags": "5362",
+      "plz": "50354",
+      "ort": "Hürth",
+      "address": "Theresienhöhe 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.709623,
+        51.191274
+      ],
+      "label": "Sporthalle Berufskolleg für Technik und Informatik (BTI)",
+      "ags": "5162",
+      "plz": "41460",
+      "ort": "Neuss",
+      "address": "Hammfelddamm 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.180937,
+        50.775464
+      ],
+      "label": "Asklepios-Kinderklinik Sankt Augustin",
+      "ags": "5382",
+      "plz": "53757",
+      "ort": "St. Augustin",
+      "address": "Arnold-Janssen-Straße 29",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.125187,
+        50.990496
+      ],
+      "capacity": 960,
+      "label": "RheinBerg Galerie",
+      "ags": "5378",
+      "plz": "51465",
+      "ort": "Bergisch Gladbach",
+      "address": "Hauptstraße 131",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.995014,
+        50.850615
+      ],
+      "label": "Ehemaliger Baumarkt Siegen-Wittgenstein",
+      "ags": "5970",
+      "plz": "57080",
+      "ort": "Siegen",
+      "address": "Eiserfelder Straße 236",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        8.082056,
+        51.561008
+      ],
+      "label": "Hallenkomplex Forma EATON Soest",
+      "ags": "5974",
+      "plz": "59494",
+      "ort": "Soest",
+      "address": "Senator-Schwartz-Ring 26",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.085181,
+        51.172804
+      ],
+      "label": "Galeria Kaufhof Solingen",
+      "ags": "5122",
+      "plz": "42651",
+      "ort": "Solingen",
+      "address": "Haupstraße 75 - 77",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.100976,
+        50.795714
+      ],
+      "capacity": 2500,
+      "label": "Eissporthalle",
+      "ags": "5334",
+      "plz": "52070",
+      "ort": "Aachen",
+      "address": "Hubert-Wienen-Straße 8",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.694554,
+        52.13053
+      ],
+      "capacity": 1000,
+      "label": "Terminal A (FMO)",
+      "ags": "5566",
+      "plz": "48268",
+      "ort": "Greven",
+      "address": "Airportallee 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.6885441,
+        51.5445657
+      ],
+      "label": "Kreissporthalle Unna",
+      "ags": "5978",
+      "plz": "59425",
+      "ort": "Unna",
+      "address": "Platanenallee 20",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.340217,
+        51.249335
+      ],
+      "capacity": null,
+      "label": "Ehemaliges Krankenhaus Dülken",
+      "ags": "5166",
+      "plz": "41751",
+      "ort": "Dülken",
+      "address": "Heesstraße 2 - 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        8.0189,
+        51.851594
+      ],
+      "label": "Impfzentrum Warendorf",
+      "ags": "5570",
+      "plz": "59320",
+      "ort": "Enningerloh",
+      "address": "Westring 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        6.628512,
+        51.652386
+      ],
+      "label": "Niederrheinhalle Wesek",
+      "ags": "5170",
+      "plz": "46485",
+      "ort": "Wesel",
+      "address": "An de Tent 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-01",
+      "coords": [
+        7.1638106,
+        51.2399136
+      ],
+      "label": "Campus Freudenberg",
+      "ags": "5124",
+      "plz": "42119",
+      "ort": "Wuppertal",
+      "address": "Rainer-Gruenter-Straße",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        7.032665,
+        50.580734
+      ],
+      "capacity": null,
+      "label": "Mehrzweckhalle Grafschaft-Gelsdorf",
+      "ags": "7131",
+      "plz": "53501",
+      "ort": "Grafschaft",
+      "address": "Altenahrer Straße 13",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        7.734318,
+        50.781445
+      ],
+      "label": "Obergeschoss Westerwald Bank Wissen",
+      "ags": "7132",
+      "plz": "57537",
+      "ort": "Wissen",
+      "address": "Rathausstraße 56",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        8.116307,
+        49.755334
+      ],
+      "label": "Neue Fahrzeughalle DRK Alzey",
+      "ags": "7331",
+      "plz": "55232",
+      "ort": "Alzey",
+      "address": "Albiger Straße 33",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.173504,
+        49.46573
+      ],
+      "label": "Salierhalle Bad Dürkheim",
+      "ags": "7332",
+      "plz": "67098",
+      "ort": "Bad Dürkheim",
+      "address": "Kurbrunnenstraße 30 - 32",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        7.638957,
+        49.786517
+      ],
+      "label": "Ehemaliger real-Markt",
+      "ags": "7133",
+      "plz": "55566",
+      "ort": "Bad Sobernheim",
+      "address": "Westtangente 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        6.894030273491668,
+        49.981147270123365
+      ],
+      "label": "Ehemaliges Hela-Gelände Wittlich",
+      "ags": "7231",
+      "plz": "54516",
+      "ort": "Wittlich",
+      "address": "Schloßstraße 31",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        7.353422,
+        49.707903
+      ],
+      "label": "Messe Idar-Oberstein",
+      "ags": "7134",
+      "plz": "55743",
+      "ort": "Idar-Oberstein",
+      "address": "John-F.-Kennedy-Straße 9",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        7.152387243359423,
+        50.194468501172615
+      ],
+      "capacity": 200,
+      "label": "Eifelgoldhalle Landkern",
+      "ags": "7135",
+      "plz": "56814",
+      "ort": "Landkern",
+      "address": "Schulstraße",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.014069,
+        49.666995
+      ],
+      "label": "Stadthalle Kirchheimbolanden",
+      "ags": "7333",
+      "plz": "67292",
+      "ort": "Kirchheimbolanden",
+      "address": "Dr.-Edeltraud-Sießl-Allee 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        6.541361283816587,
+        49.95904788660574
+      ],
+      "label": "Ehemalige Turnhalle High School US-Housing",
+      "ags": "7232",
+      "plz": "54634",
+      "ort": "Bitburg",
+      "address": "Am Wasserturm",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        8.345713,
+        49.532016
+      ],
+      "label": "Sporthalle (Andreas-Albert-Schule)",
+      "ags": "7311",
+      "plz": "67227",
+      "ort": "Frankenthal",
+      "address": "Petersgartenweg 9",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        8.295963,
+        49.063934
+      ],
+      "label": "Hilfskrankenhaus Wörth",
+      "ags": "7334",
+      "plz": "76744",
+      "ort": "Wörth am Rhein",
+      "address": "Mobilstraße",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        7.700404,
+        49.440475
+      ],
+      "label": "Werkshalle OPEL-Gelände",
+      "ags": "7312",
+      "plz": "67663",
+      "ort": "Kaiserslautern",
+      "address": "Opelkreisel 1",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        7.584913,
+        50.331781
+      ],
+      "label": "Fechthalle an der Sporthalle Oberwerth",
+      "ags": "7111",
+      "plz": "56075",
+      "ort": "Koblenz",
+      "address": "Jupp-Gauchel-Straße 10",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        7.40832,
+        49.546463
+      ],
+      "capacity": 200,
+      "label": "Halle (ehemalige Bundeswehr-Kaserne)",
+      "ags": "7336",
+      "plz": "66869",
+      "ort": "Kusel",
+      "address": "Haischbachstraße 100",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        8.45424,
+        49.478817
+      ],
+      "label": "Walzmühle (ehemaliger real-Markt)",
+      "ags": "7314",
+      "plz": "67061",
+      "ort": "Yorckstraße 2",
+      "address": "Ludwigshafen am Rhein",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        8.232318,
+        50.00564
+      ],
+      "capacity": 1000,
+      "label": "Ehemalige Fachhochschule",
+      "ags": "7315",
+      "plz": "55122",
+      "ort": "Mainz-Gonsenheim",
+      "address": "An der Bruchspitze 50",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        8.044209,
+        49.986684
+      ],
+      "capacity": 200,
+      "label": "AfA-Gebäude Ingelheim am Rhein",
+      "ags": "7339",
+      "plz": "55218",
+      "ort": "Ingelheim am Rhein",
+      "address": "Konrad-Adenauer-Straße 51/5",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        7.318638,
+        50.30353
+      ],
+      "capacity": null,
+      "label": "Maifeldhalle Polch",
+      "ags": "7137",
+      "plz": "56751",
+      "ort": "Polch",
+      "address": "Vormaystraße",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.158311,
+        49.345359
+      ],
+      "label": "Telekom-Hochhaus Neustadt",
+      "ags": "7316",
+      "plz": "67433",
+      "ort": "Neustadt an der Weinstraße",
+      "address": "Chemnitzer Straße 2",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        7.522218,
+        50.553363
+      ],
+      "label": "Gewerbehalle Spedition Schmitt",
+      "ags": "7138",
+      "plz": "56587",
+      "ort": "Oberhonnefeld-Gierend",
+      "address": "Erlenstraße 1-9",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        7.607556,
+        49.204482
+      ],
+      "label": "Messehalle Pirmasens",
+      "ags": "7317",
+      "plz": "66953",
+      "ort": "Pirmasens",
+      "address": "Zeppelinstraße 11",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        7.516748,
+        49.981059
+      ],
+      "label": "Ehemaliger SCONTO-Möbelmarkt",
+      "ags": "7140",
+      "plz": "55469",
+      "ort": "Simmern/Hunsrück",
+      "address": "Holzbacher Straße 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        7.59753,
+        50.321347
+      ],
+      "label": "Ehemaliger Lidl-Markt",
+      "ags": "7141",
+      "plz": "56112",
+      "ort": "Lahnstein",
+      "address": "Koblenzer Straße 27 - 29",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.374144,
+        49.372731
+      ],
+      "label": "Kreissporthalle Schifferstadt",
+      "ags": "7338",
+      "plz": "67105",
+      "ort": "Schifferstadt",
+      "address": "Neustückweg 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        8.424521,
+        49.318319
+      ],
+      "label": "Stadthalle Speyer (Kleiner Saal/Foyer)",
+      "ags": "7318",
+      "plz": "67346",
+      "ort": "Speyer",
+      "address": "Obere Langgasse 33",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        6.62216,
+        49.7405
+      ],
+      "capacity": 5000,
+      "label": "Messepark Trier",
+      "ags": "7211",
+      "plz": "54294",
+      "ort": "Trier",
+      "address": "In den Moselauen 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        6.671959,
+        50.289356
+      ],
+      "label": "Markt- & Messehalle Hillesheim",
+      "ags": "7233",
+      "plz": "54576",
+      "ort": "Hillesheim",
+      "address": "Am Viehmarkt 5",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        7.831171769846436,
+        50.65897418504255
+      ],
+      "label": "Ehemalige Realschule Hachenburg",
+      "ags": "7143",
+      "plz": "57627",
+      "ort": "Hachenburg",
+      "address": "Am Schwimmbad 2",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.363932,
+        49.639854
+      ],
+      "label": "Nikolaus-Dörr-Halle Worms",
+      "ags": "7319",
+      "plz": "67547",
+      "ort": "Worms",
+      "address": "Mainzer Straße 52",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        7.365143,
+        49.247814
+      ],
+      "label": "Ehemaliges City-Outlet Zweibrücken",
+      "ags": "7320",
+      "plz": "66482",
+      "ort": "Zweibrücken",
+      "address": "Haupstraße 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        7.148638978735729,
+        49.351754437176204
+      ],
+      "capacity": 1000,
+      "label": "Zentrales Impfzentrum Ost-Saarland",
+      "ags": "10043",
+      "plz": "66540",
+      "ort": "Neunkirchen",
+      "address": "Redener Straße 20",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        6.9585188,
+        49.2311143
+      ],
+      "capacity": 2000,
+      "label": "Zentrales Impfzentrum Süd-Saarland",
+      "ags": "10041",
+      "plz": "66117",
+      "ort": "Saarbrücken",
+      "address": "Am Schanzenberg",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2020-12-15",
+      "coords": [
+        6.73267,
+        49.31275
+      ],
+      "capacity": 1000,
+      "label": "Zentrales Impfzentrum West-Saarland",
+      "ags": "10044",
+      "plz": "66740",
+      "ort": "Saarlouis",
+      "address": "Fasanenallee 30",
+      "kind": "ZIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        14.114369,
+        51.290007
+      ],
+      "label": "Sporthalle am Flughafen",
+      "ags": "14625",
+      "plz": "01917",
+      "ort": "Kamenz",
+      "address": "Macherstraße 146",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.918226,
+        50.820844
+      ],
+      "label": "Ehemaliger Nettomarkt",
+      "ags": "14511",
+      "plz": "09120",
+      "ort": "Chemnitz",
+      "address": "Wilhelm-Raabe-Str. 6",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        13.71647,
+        51.069312
+      ],
+      "label": "Messe Dresden",
+      "ags": "14612",
+      "plz": "01067",
+      "ort": "Dresden",
+      "address": "Messering 6",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        13.01275,
+        50.57693
+      ],
+      "label": "Festhalle Annaberg-Buchholz",
+      "ags": "14521",
+      "plz": "09456",
+      "ort": "Annaberg-Buchholz",
+      "address": "Ernst-Roch-Straße 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        14.677143,
+        51.100645
+      ],
+      "label": "Messehalle Löbau",
+      "ags": "14626",
+      "plz": "02708",
+      "ort": "Löbau",
+      "address": "Görlitzer Str. 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.399183,
+        51.39556
+      ],
+      "label": "Messe Leipzig",
+      "ags": "14713",
+      "plz": "04356",
+      "ort": "Leipzig",
+      "address": "Messe-Allee 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.506689,
+        51.123965
+      ],
+      "label": "Ehemaliger Aldi Markt",
+      "ags": "14729",
+      "plz": "04552",
+      "ort": "Borna",
+      "address": "Oststraße 3a",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        13.29582,
+        51.29783
+      ],
+      "label": "SACHSENarena",
+      "ags": "14627",
+      "plz": "01589",
+      "ort": "Riesa",
+      "address": "Am Sportzentrum 5",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.972942,
+        50.985284
+      ],
+      "label": "Mittweida über Simmel (ehemals EKZ)",
+      "ags": "14522",
+      "plz": "09648",
+      "ort": "Mittweida",
+      "address": "Schillerstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        13.13138,
+        51.47813
+      ],
+      "label": "Stadthalle Belgern",
+      "ags": "14730",
+      "plz": "04874",
+      "ort": "Belgern",
+      "address": "Mühlberger Str. 37",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        13.93111,
+        50.981477
+      ],
+      "label": "Ehemaliger Aldi-Markt Pirna-Jessen",
+      "ags": "14628",
+      "plz": "01796",
+      "ort": "Pirna",
+      "address": "Radeberger Str. 1h",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.350256,
+        50.540912
+      ],
+      "label": "Spektrum Treuen/Eich (ehemaliger Baumarkt)",
+      "ags": "14523",
+      "plz": "08223",
+      "ort": "Treuen",
+      "address": "Rebesgrüner Str. 9",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.496496,
+        50.704362
+      ],
+      "label": "Stadthalle Zwickau",
+      "ags": "14524",
+      "plz": "08056",
+      "ort": "Zwickau",
+      "address": "Bergmannsstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        11.3961301,
+        52.5243567
+      ],
+      "capacity": 160,
+      "label": "Impfzentrum Altmarkkreis Salzwedel",
+      "ags": "15081",
+      "plz": "39638",
+      "ort": "Gardelegen",
+      "address": "Philipp-Müller-Straße 18",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.264916317348826,
+        51.65417880642063
+      ],
+      "label": "Impfzentrum Anhalt-​Bitterfeld",
+      "ags": "15082",
+      "plz": "06766",
+      "ort": "Bitterfeld-Wolfen",
+      "address": "Hauptstr. 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        11.394195098924833,
+        52.28043401104779
+      ],
+      "label": "Impfzentrum Landkreis Börde",
+      "ags": "15083",
+      "plz": "39340",
+      "ort": "Haldensleben",
+      "address": "Waldring 113 B/C",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.013608238408239,
+        51.18305735913294
+      ],
+      "label": "Impfzentrum Burgenlandkreis",
+      "ags": "15084",
+      "plz": "06686",
+      "ort": "Lützen",
+      "address": "Patterken 9",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.2180001,
+        51.8300257
+      ],
+      "label": "Impfzentrum Dessau-​Roßlau",
+      "ags": "15001",
+      "plz": "06847",
+      "ort": "Dessau-Roßlau",
+      "address": "Robert-Bosch-Straße 54",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        11.966933632865453,
+        51.47667654482442
+      ],
+      "label": "Impfzentrum Stadt Halle (Saale)",
+      "ags": "15002",
+      "plz": "06110",
+      "ort": "Halle",
+      "address": "Heinrich-Pera-Str. 13",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        11.155013,
+        51.780556
+      ],
+      "label": "Impfzentrum Landkreis Harz",
+      "ags": "15085",
+      "plz": "06484",
+      "ort": "Quedlinburg",
+      "address": "August-Bebel-Ring 13",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        11.844512940690382,
+        52.272055442726106
+      ],
+      "label": "Impfzentrum Jerichower Land",
+      "ags": "15086",
+      "plz": "39288",
+      "ort": "Burg",
+      "address": "Platz des Friedens 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        11.670720568425365,
+        52.13493353355625
+      ],
+      "label": "Impfzentrum Magdeburg",
+      "ags": "15003",
+      "plz": "39114",
+      "ort": "Magdeburg",
+      "address": "Tessenowstr. 9a",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        11.299209222853197,
+        51.47839273097243
+      ],
+      "label": "Impfzentrum Mansfeld-​Südharz",
+      "ags": "15087",
+      "plz": "06526",
+      "ort": "Sangerhausen",
+      "address": "Dr.-Wilhelm-Külz-Straße 35",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.003576582649687,
+        51.35302335852037
+      ],
+      "label": "Impfzentrum Saalekreis",
+      "ags": "15088",
+      "plz": "06217",
+      "ort": "Merseburg",
+      "address": "Rischmühle 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        11.591839339939025,
+        51.85234936026333
+      ],
+      "label": "Impfzentrum Salzlandkreis",
+      "ags": "15089",
+      "plz": "39418",
+      "ort": "Staßfurt",
+      "address": "Bodestr. 11",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        11.847176155373905,
+        52.612732786558134
+      ],
+      "label": "Impfzentrum Stendal",
+      "ags": "15090",
+      "plz": "39576",
+      "ort": "Stendal",
+      "address": "Osterburger Straße 83/84",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-11",
+      "coords": [
+        12.688916769882324,
+        51.86590707969572
+      ],
+      "label": "Impfzentrum Wittenberg",
+      "ags": "15091",
+      "plz": "06886",
+      "ort": "Lutherstadt Wittenberg",
+      "address": "Mittelfeld 50",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.137441,
+        53.899071
+      ],
+      "label": "Ehemalige Boje-Schule",
+      "ags": "1051",
+      "plz": "25541",
+      "ort": "Brunsbüttel",
+      "address": "Bojestraße 30",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        9.091389,
+        54.178483
+      ],
+      "label": "Camping & Freizeit STOTZEM",
+      "ags": "1051",
+      "plz": "25746",
+      "ort": "Heide",
+      "address": "Meldorfer Straße 196",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        9.462775,
+        54.817939
+      ],
+      "label": "Ehemaliges Bundeswehrgebäude",
+      "ags": "1001",
+      "plz": "24944",
+      "ort": "Flensburg",
+      "address": "Twedter Mark 11",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        10.673707,
+        53.623591
+      ],
+      "label": "Ehemaliges Schleswag-Gebäude",
+      "ags": "1053",
+      "plz": "23881",
+      "ort": "Alt-Mölln",
+      "address": "Zu den Ziegelwiesen 8",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.384606,
+        53.444069
+      ],
+      "label": "Ehemaliges Berufsbildungszentrum",
+      "ags": "1053",
+      "plz": "21502",
+      "ort": "Geesthacht",
+      "address": "Dialogweg 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        10.13902,
+        54.320118
+      ],
+      "label": "Schwedenkai",
+      "ags": "1002",
+      "plz": "24103",
+      "ort": "Kiel",
+      "address": "Schwedenkai 1",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.100364,
+        54.314045
+      ],
+      "label": "CITTI-PARK UKSH",
+      "ags": "1002",
+      "plz": "24113",
+      "ort": "Kiel",
+      "address": "Mühlendamm 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        10.677654,
+        53.869276
+      ],
+      "capacity": 1000,
+      "label": "Musik- und Kongresshalle (MuK)",
+      "ags": "1003",
+      "plz": "23554",
+      "ort": "Lübeck",
+      "address": "Willy-Brandt-Allee 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        9.975771,
+        54.093105
+      ],
+      "label": "Holstenhallen",
+      "ags": "1004",
+      "plz": "24537",
+      "ort": "Neumünster",
+      "address": "Justus-von-Liebig-Straße 2 - 4",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        9.089743828143554,
+        54.496347826401795
+      ],
+      "label": "Messe Husum & Congress",
+      "ags": "1054",
+      "plz": "25813",
+      "ort": "Husum",
+      "address": "Am Messeplatz 12 - 18",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        8.810988998807892,
+        54.78680998030606
+      ],
+      "label": "Jugendherberge Niebüll",
+      "ags": "1054",
+      "plz": "25899",
+      "ort": "Niebüll",
+      "address": "Mühlenstraße 65",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.6978,
+        53.92036
+      ],
+      "label": "Altes Amtsgericht Bad Schwartau",
+      "ags": "1055",
+      "plz": "23611",
+      "ort": "Bad Schwartau",
+      "address": "Markt 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        10.61619,
+        54.13669
+      ],
+      "label": "Ehemaliger Sky-Supermarkt Eutin",
+      "ags": "1055",
+      "plz": "23701",
+      "ort": "Eutin",
+      "address": "Markt 7 - 8",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.86398,
+        54.21549
+      ],
+      "label": "Jugendhilfehaus Lensahn (Trakt D)",
+      "ags": "1055",
+      "plz": "23738",
+      "ort": "Lensahn",
+      "address": "Eutiner Straße 56",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.686677,
+        53.743247
+      ],
+      "label": "Impfzentrum Elmshorn",
+      "ags": "1056",
+      "plz": "25337",
+      "ort": "Elmshorn",
+      "address": "Otto-Hahn-Straße 18",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        9.77066,
+        53.67136
+      ],
+      "label": "Ehemaliger ALDI-Markt",
+      "ags": "1056",
+      "plz": "25497",
+      "ort": "Prisdorf",
+      "address": "Peiner Hag 11 - 13",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.393271,
+        54.147899
+      ],
+      "label": "Jugendherberge Plön",
+      "ags": "1057",
+      "plz": "24306",
+      "ort": "Koppelsberg",
+      "address": "Ascheberger Straße 67",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        10.381903,
+        54.394907
+      ],
+      "label": "Jugendherberge Schönberg",
+      "ags": "1057",
+      "plz": "24217",
+      "ort": "Schönberg",
+      "address": "Stakendorfer Weg 1",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.67567,
+        54.31262
+      ],
+      "label": "ACO-Gebäude",
+      "ags": "1058",
+      "plz": "24782",
+      "ort": "Büdelsdorf",
+      "address": "Am Friedrichsbrunnen 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        9.9661,
+        54.39724
+      ],
+      "label": "Impfzentrum Gettorf",
+      "ags": "1058",
+      "plz": "24214",
+      "ort": "Gettorf",
+      "address": "Am Sportpark 3",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        9.509277,
+        54.412722
+      ],
+      "label": "Forum Kropp",
+      "ags": "1059",
+      "plz": "24848",
+      "ort": "Kropp",
+      "address": "Am Markt 11",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.768259,
+        54.6558
+      ],
+      "label": "Ehemalige Knüttel-Antonius-Schule",
+      "ags": "1059",
+      "plz": "24392",
+      "ort": "Norderbrarup",
+      "address": "Knüttelallee 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        9.975433,
+        53.822627
+      ],
+      "label": "Impfzentrum Kaltenkirchen",
+      "ags": "1060",
+      "plz": "24568",
+      "ort": "Kaltenkirchen",
+      "address": "Borsigstraße 1",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.194951,
+        53.951232
+      ],
+      "label": "Tennishalle Wahlstedt",
+      "ags": "1060",
+      "plz": "23812",
+      "ort": "Wahlstedt",
+      "address": "Nordlandstraße 7",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        9.99415,
+        53.70796
+      ],
+      "label": "TriBühne",
+      "ags": "1060",
+      "plz": "22846",
+      "ort": "Norderstedt",
+      "address": "Rathausallee 50",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        9.498136,
+        53.957704
+      ],
+      "label": "Ehemaliger Indoor-Spielplatz (Piratenland)",
+      "ags": "1061",
+      "plz": "25524",
+      "ort": "Itzehoe",
+      "address": "Emmy-Noether-Straße 17",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-04",
+      "coords": [
+        10.36923,
+        53.81233
+      ],
+      "capacity": 750,
+      "label": "Jugendherberge Bad Oldesloe",
+      "ags": "1062",
+      "plz": "23843",
+      "ort": "Bad Oldesloe",
+      "address": "Konrad-Adenauer-Ring 2",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.28235,
+        53.66017
+      ],
+      "label": "Gelände der Lungenklinik",
+      "ags": "1062",
+      "plz": "22927",
+      "ort": "Großhansdorf",
+      "address": "Wöhrendamm 80",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.249079,
+        53.513394
+      ],
+      "label": "Jürgen-Rickertsen-Haus",
+      "ags": "1062",
+      "plz": "21465",
+      "ort": "Reinbek",
+      "address": "Schulstraße 7",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        12.360601,
+        50.904683
+      ],
+      "label": "Klinik Schmölln",
+      "ags": "16077",
+      "plz": "04626",
+      "ort": "Schmölln",
+      "address": "Robert-Koch-Straße 95",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        10.32068,
+        51.37634
+      ],
+      "label": "Impfzentrum Leinefelde",
+      "ags": "16061",
+      "plz": "37327",
+      "ort": "Leinefelde",
+      "address": "Händelstraße 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        10.315226,
+        50.988534
+      ],
+      "label": "Impfzentrum Eisenach",
+      "ags": "16056",
+      "plz": "99817",
+      "ort": "Eisenach",
+      "address": "Mühlhäuser Straße 94",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        11.01337,
+        50.99236
+      ],
+      "label": "Helios Klinikum Erfurt",
+      "ags": "16051",
+      "plz": "99089",
+      "ort": "Erfurt",
+      "address": "Nordhäuser Straße 74",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        11.08452,
+        50.94815
+      ],
+      "label": "Katholisches Krankenhaus Erfurt",
+      "ags": "16051",
+      "plz": "99097",
+      "ort": "Erfurt",
+      "address": "Haarbergstraße 70",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        12.08237,
+        50.89476
+      ],
+      "label": "Ärztehaus Bieblach Gera",
+      "ags": "16052",
+      "plz": "07549",
+      "ort": "Gera",
+      "address": "J.-R.-Becher Straße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        12.07777,
+        50.881299
+      ],
+      "label": "Bereitschaftsdienst-Praxis KVT",
+      "ags": "16052",
+      "plz": "07549",
+      "ort": "Gera",
+      "address": "Ernst-Toller-Straße 14",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        10.709565,
+        50.949995
+      ],
+      "label": "Impfzentrum Gotha",
+      "ags": "16067",
+      "plz": "99867",
+      "ort": "Gotha",
+      "address": "Kastanienallee 8",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        12.199029269846482,
+        50.66256358123233
+      ],
+      "label": "Kreiskrankenhaus Greiz",
+      "ags": "16076",
+      "plz": "07973",
+      "ort": "Greiz",
+      "address": "Wichmannstraße 12",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        10.7312070926925,
+        50.422500091820524
+      ],
+      "label": "Impfzentrum Hildburghausen",
+      "ags": "16069",
+      "plz": "98646",
+      "ort": "Hildburghausen",
+      "address": "Coburger Straße 22",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        10.948061,
+        50.833425
+      ],
+      "label": "Impfzentrum Arnstadt",
+      "ags": "16070",
+      "plz": "99310",
+      "ort": "Arnstadt",
+      "address": "Rankestraße 2",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        10.920068615109786,
+        50.682763187243005
+      ],
+      "label": "Alte Schwimmhalle",
+      "ags": "16071",
+      "plz": "98693",
+      "ort": "Ilmenau",
+      "address": "Am Stollen 48",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        11.586357,
+        50.925162
+      ],
+      "label": "Impfzentrum Jena 1",
+      "ags": "16053",
+      "plz": "07745",
+      "ort": "Jena",
+      "address": "Knebelstraße 10",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        11.621253,
+        50.884077
+      ],
+      "label": "Impfzentrum Jena 2",
+      "ags": "16053",
+      "plz": "07747",
+      "ort": "Jena",
+      "address": "Ziegesarstraße 19",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        11.095693,
+        51.358545
+      ],
+      "label": "KMG Klinik",
+      "ags": "16065",
+      "plz": "06567",
+      "ort": "Bad Frankenhausen",
+      "address": "An der Wipper 2",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        10.80332,
+        51.51419
+      ],
+      "label": "Impfzentrum Nordhausen",
+      "ags": "16062",
+      "plz": "99734",
+      "ort": "Nordhausen",
+      "address": "Stolberger Straße 131",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        11.882607,
+        50.957323
+      ],
+      "label": "Waldkliniken Eisenberg",
+      "ags": "16074",
+      "plz": "07607",
+      "ort": "Eisenberg",
+      "address": "Klosterlausnitzer Straße 81",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        11.590773091504666,
+        50.698333768715585
+      ],
+      "label": "Krankenhaus Pößneck",
+      "ags": "16075",
+      "plz": "07381",
+      "ort": "Pößneck",
+      "address": "Hohes Gässchen 8 - 10",
+      "kind": "KIZ"
+    },
+    {
+      "coords": [
+        11.35106,
+        50.72239
+      ],
+      "label": "Altes Krankenhaus Rudolstadt (Haus 8)",
+      "ags": "16073",
+      "plz": "07407",
+      "ort": "Rudolstadt",
+      "address": "Jenaische Straße 14",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        10.446052,
+        50.718814
+      ],
+      "label": "Impfzentrum Schmalkalden",
+      "ags": "16066",
+      "plz": "98574",
+      "ort": "Schmalkalden",
+      "address": "Siechenrasen 13",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        10.39323,
+        50.55623
+      ],
+      "label": "Impfzentrum Meiningen",
+      "ags": "16066",
+      "plz": "98617",
+      "ort": "Meiningen",
+      "address": "Dr.-Romberg-Straße 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        11.126932,
+        51.17025
+      ],
+      "label": "Impfzentrum Sömmerda",
+      "ags": "16068",
+      "plz": "99610",
+      "ort": "Sömmerda",
+      "address": "Leubinger Straße 5",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        11.173806,
+        50.358028
+      ],
+      "label": "Impfzentrum Sonneberg",
+      "ags": "16072",
+      "plz": "96515",
+      "ort": "Sonneberg",
+      "address": "Köppelsdorfer Straße 36",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        10.69196,
+        50.6117
+      ],
+      "label": "Impfzentrum Suhl",
+      "ags": "16054",
+      "plz": "98527",
+      "ort": "Suhl",
+      "address": "Friedrich-König-Straße 23",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        10.651618,
+        51.105848
+      ],
+      "label": "Hufeland Klinikum",
+      "ags": "16064",
+      "plz": "99947",
+      "ort": "Bad Langensalza",
+      "address": "Rudolph-Weiss-Straße 1 - 5",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        10.44933,
+        51.23406
+      ],
+      "label": "Impfzentrum Mühlhausen",
+      "ags": "16064",
+      "plz": "99974",
+      "ort": "Mühlhausen",
+      "address": "Lindenhof 6",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        10.231399627094016,
+        50.81445115837158
+      ],
+      "label": "Solewerk Hotel",
+      "ags": "16063",
+      "plz": "36433",
+      "ort": "Bad Salzungen",
+      "address": "Bahnhofstraße 21",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-01-13",
+      "coords": [
+        11.325929,
+        50.981413
+      ],
+      "label": "Mon ami Weimar",
+      "ags": "16055",
+      "plz": "99423",
+      "ort": "Weimar",
+      "address": "Goetheplatz 11",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        11.514686,
+        51.026405
+      ],
+      "label": "Stadthalle Apolda",
+      "ags": "16071",
+      "plz": "99510",
+      "ort": "Apolda",
+      "address": "Klause 1",
+      "kind": "KIZ"
+    },
+    {
+      "opening": "2021-02-03",
+      "coords": [
+        11.33922,
+        50.85958
+      ],
+      "label": "Krankenhaus Blankenhain",
+      "ags": "16071",
+      "plz": "99444",
+      "ort": "Blankenhain",
+      "address": "Wirtstraße 5",
+      "kind": "KIZ"
+    }
+  ]
+}

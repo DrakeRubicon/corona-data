@@ -1,0 +1,513 @@
+{
+    "germany": {
+        "historical": [
+            {
+                "date": "2021-02-16",
+                "value": 2896064,
+                "peopleVaccinated": 2896064,
+                "peopleFullyVaccinated": 1525943
+            },
+            {
+                "date": "2021-02-15",
+                "value": 2817472,
+                "peopleVaccinated": 2817472,
+                "peopleFullyVaccinated": 1473754
+            },
+            {
+                "date": "2021-02-14",
+                "value": 2748322,
+                "peopleVaccinated": 2748322,
+                "peopleFullyVaccinated": 1419412
+            },
+            {
+                "date": "2021-02-13",
+                "value": 2709023,
+                "peopleVaccinated": 2709023,
+                "peopleFullyVaccinated": 1392826
+            },
+            {
+                "date": "2021-02-12",
+                "value": 2646630,
+                "peopleVaccinated": 2646630,
+                "peopleFullyVaccinated": 1346860
+            },
+            {
+                "date": "2021-02-11",
+                "value": 2568578,
+                "peopleVaccinated": 2568578,
+                "peopleFullyVaccinated": 1270119
+            },
+            {
+                "date": "2021-02-10",
+                "value": 2498171,
+                "peopleVaccinated": 2498171,
+                "peopleFullyVaccinated": 1198570
+            },
+            {
+                "date": "2021-02-09",
+                "value": 2425367,
+                "peopleVaccinated": 2425367,
+                "peopleFullyVaccinated": 1127243
+            },
+            {
+                "date": "2021-02-08",
+                "value": 2361405,
+                "peopleVaccinated": 2361405,
+                "peopleFullyVaccinated": 1059996
+            },
+            {
+                "date": "2021-02-07",
+                "value": 2311021,
+                "peopleVaccinated": 2311021,
+                "peopleFullyVaccinated": 1011729
+            },
+            {
+                "date": "2021-02-06",
+                "value": 2278391,
+                "peopleVaccinated": 2278391,
+                "peopleFullyVaccinated": 985459
+            },
+            {
+                "date": "2021-02-05",
+                "value": 2231251,
+                "peopleVaccinated": 2231251,
+                "peopleFullyVaccinated": 930510
+            },
+            {
+                "date": "2021-02-04",
+                "value": 2172892,
+                "peopleVaccinated": 2172892,
+                "peopleFullyVaccinated": 858462
+            },
+            {
+                "date": "2021-02-03",
+                "value": 2111297,
+                "peopleVaccinated": 2111297,
+                "peopleFullyVaccinated": 786418
+            },
+            {
+                "date": "2021-02-02",
+                "value": 2056071,
+                "peopleVaccinated": 2056071,
+                "peopleFullyVaccinated": 703604
+            },
+            {
+                "date": "2021-02-01",
+                "value": 1999776,
+                "peopleVaccinated": 1999776,
+                "peopleFullyVaccinated": 634776
+            },
+            {
+                "date": "2021-01-31",
+                "value": 1951522,
+                "peopleVaccinated": 1951522,
+                "peopleFullyVaccinated": 569671
+            },
+            {
+                "date": "2021-01-30",
+                "value": 1920286,
+                "peopleVaccinated": 1920286,
+                "peopleFullyVaccinated": 538537
+            },
+            {
+                "date": "2021-01-29",
+                "value": 1881848,
+                "peopleVaccinated": 1881848,
+                "peopleFullyVaccinated": 491585
+            },
+            {
+                "date": "2021-01-28",
+                "value": 1825407,
+                "peopleVaccinated": 1825407,
+                "peopleFullyVaccinated": 439030
+            },
+            {
+                "date": "2021-01-27",
+                "value": 1773884,
+                "peopleVaccinated": 1773884,
+                "peopleFullyVaccinated": 390342
+            },
+            {
+                "date": "2021-01-26",
+                "value": 1720043,
+                "peopleVaccinated": 1720043,
+                "peopleFullyVaccinated": 332338
+            },
+            {
+                "date": "2021-01-25",
+                "value": 1666872,
+                "peopleVaccinated": 1666872,
+                "peopleFullyVaccinated": 283247
+            },
+            {
+                "date": "2021-01-24",
+                "value": 1609354,
+                "peopleVaccinated": 1609354,
+                "peopleFullyVaccinated": 244034
+            },
+            {
+                "date": "2021-01-23",
+                "value": 1571399,
+                "peopleVaccinated": 1571399,
+                "peopleFullyVaccinated": 216270
+            },
+            {
+                "date": "2021-01-22",
+                "value": 1522806,
+                "peopleVaccinated": 1522806,
+                "peopleFullyVaccinated": 173346
+            },
+            {
+                "date": "2021-01-21",
+                "value": 1439187,
+                "peopleVaccinated": 1439187,
+                "peopleFullyVaccinated": 143068
+            },
+            {
+                "date": "2021-01-20",
+                "value": 1379016,
+                "peopleVaccinated": 1379016,
+                "peopleFullyVaccinated": 108345
+            },
+            {
+                "date": "2021-01-19",
+                "value": 1301484,
+                "peopleVaccinated": 1301484,
+                "peopleFullyVaccinated": 57943
+            },
+            {
+                "date": "2021-01-18",
+                "value": 1233944,
+                "peopleVaccinated": 1233944,
+                "peopleFullyVaccinated": 30966
+            },
+            {
+                "date": "2021-01-17",
+                "value": 1176080,
+                "peopleVaccinated": 1176080,
+                "peopleFullyVaccinated": 14542
+            },
+            {
+                "date": "2021-01-16",
+                "value": 1145128,
+                "peopleVaccinated": 1145128,
+                "peopleFullyVaccinated": 939
+            },
+            {
+                "date": "2021-01-15",
+                "value": 1088422,
+                "peopleVaccinated": 1088422,
+                "peopleFullyVaccinated": 545
+            },
+            {
+                "date": "2021-01-14",
+                "value": 996172,
+                "peopleVaccinated": 996172,
+                "peopleFullyVaccinated": 115
+            },
+            {
+                "date": "2021-01-13",
+                "value": 896164,
+                "peopleVaccinated": 896164,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-12",
+                "value": 797538,
+                "peopleVaccinated": 797538,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-11",
+                "value": 715484,
+                "peopleVaccinated": 715484,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-10",
+                "value": 649819,
+                "peopleVaccinated": 649819,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-09",
+                "value": 616593,
+                "peopleVaccinated": 616593,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-08",
+                "value": 559729,
+                "peopleVaccinated": 559729,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-07",
+                "value": 499546,
+                "peopleVaccinated": 499546,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-06",
+                "value": 441075,
+                "peopleVaccinated": 441075,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-05",
+                "value": 382699,
+                "peopleVaccinated": 382699,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-04",
+                "value": 330271,
+                "peopleVaccinated": 330271,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-03",
+                "value": 281859,
+                "peopleVaccinated": 281859,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-02",
+                "value": 256615,
+                "peopleVaccinated": 256615,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2021-01-01",
+                "value": 205140,
+                "peopleVaccinated": 205140,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2020-12-31",
+                "value": 180513,
+                "peopleVaccinated": 180513,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2020-12-30",
+                "value": 142251,
+                "peopleVaccinated": 142251,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2020-12-29",
+                "value": 84554,
+                "peopleVaccinated": 84554,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2020-12-28",
+                "value": 42084,
+                "peopleVaccinated": 42084,
+                "peopleFullyVaccinated": 0
+            },
+            {
+                "date": "2020-12-27",
+                "value": 23433,
+                "peopleVaccinated": 23433,
+                "peopleFullyVaccinated": 0
+            }
+        ]
+    },
+    "bundeslaender": [
+        {
+            "id": "Baden-W\u00fcrttemberg",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 361212,
+                    "peopleVaccinated": 361212,
+                    "peopleFullyVaccinated": 172613
+                }
+            ]
+        },
+        {
+            "id": "Bayern",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 494480,
+                    "peopleVaccinated": 494480,
+                    "peopleFullyVaccinated": 257615
+                }
+            ]
+        },
+        {
+            "id": "Berlin",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 139157,
+                    "peopleVaccinated": 139157,
+                    "peopleFullyVaccinated": 81077
+                }
+            ]
+        },
+        {
+            "id": "Brandenburg",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 81989,
+                    "peopleVaccinated": 81989,
+                    "peopleFullyVaccinated": 60965
+                }
+            ]
+        },
+        {
+            "id": "Bremen",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 26078,
+                    "peopleVaccinated": 26078,
+                    "peopleFullyVaccinated": 15783
+                }
+            ]
+        },
+        {
+            "id": "Hamburg",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 69666,
+                    "peopleVaccinated": 69666,
+                    "peopleFullyVaccinated": 37359
+                }
+            ]
+        },
+        {
+            "id": "Hessen",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 201494,
+                    "peopleVaccinated": 201494,
+                    "peopleFullyVaccinated": 92078
+                }
+            ]
+        },
+        {
+            "id": "Mecklenburg-Vorpommern",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 64738,
+                    "peopleVaccinated": 64738,
+                    "peopleFullyVaccinated": 36880
+                }
+            ]
+        },
+        {
+            "id": "Niedersachsen",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 234102,
+                    "peopleVaccinated": 234102,
+                    "peopleFullyVaccinated": 128021
+                }
+            ]
+        },
+        {
+            "id": "Nordrhein-Westfalen",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 629227,
+                    "peopleVaccinated": 629227,
+                    "peopleFullyVaccinated": 300586
+                }
+            ]
+        },
+        {
+            "id": "Rheinland-Pfalz",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 155134,
+                    "peopleVaccinated": 155134,
+                    "peopleFullyVaccinated": 113295
+                }
+            ]
+        },
+        {
+            "id": "Saarland",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 36043,
+                    "peopleVaccinated": 36043,
+                    "peopleFullyVaccinated": 17672
+                }
+            ]
+        },
+        {
+            "id": "Sachsen",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 135382,
+                    "peopleVaccinated": 135382,
+                    "peopleFullyVaccinated": 67234
+                }
+            ]
+        },
+        {
+            "id": "Sachsen-Anhalt",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 70918,
+                    "peopleVaccinated": 70918,
+                    "peopleFullyVaccinated": 40918
+                }
+            ]
+        },
+        {
+            "id": "Schleswig-Holstein",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 110702,
+                    "peopleVaccinated": 110702,
+                    "peopleFullyVaccinated": 63157
+                }
+            ]
+        },
+        {
+            "id": "Th\u00fcringen",
+            "historical": [
+                {
+                    "date": "2021-02-16",
+                    "value": 85742,
+                    "peopleVaccinated": 85742,
+                    "peopleFullyVaccinated": 40690
+                }
+            ]
+        }
+    ],
+    "timestamp": "17.02.2021, 10:00 Uhr",
+    "message": [],
+    "lastUpdate": "2021-02-17T19:05:04.035813+01:00",
+    "nachIndikation": {
+        "erstimpfung": {
+            "alter": 1134114,
+            "beruf": 1315447,
+            "medizinischeGr\u00fcnde": 100631,
+            "pflegeheim": 724275
+        },
+        "zweitimpfung": {
+            "alter": 537525,
+            "beruf": 736687,
+            "medizinischeGr\u00fcnde": 59460,
+            "pflegeheim": 460730
+        }
+    }
+}
