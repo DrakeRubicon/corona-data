@@ -1,0 +1,26 @@
+{
+  "impfstoffe": {
+    "Präklinik": {
+      "count": ">180"
+    },
+    "Phase I": {
+      "count": "21"
+    },
+    "Phase II": {
+      "count": "31"
+    },
+    "Phase III": {
+      "count": "20"
+    },
+    "Antrag Zulassung": {
+      "count": "3"
+    },
+    "Zulassung": {
+      "count": "7"
+    },
+    "Zugelassen": {
+      "count": "7"
+    }
+  },
+  "lastUpdate": "2021-02-21T14:00:04+01:00"
+}
