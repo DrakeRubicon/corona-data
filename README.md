@@ -6,8 +6,3 @@ Mostly Saxony, but some contain Datasets for whole Germany too.
 ## Notice:
 
 Datawrapper export for DIVI and Chemnitz for Jan 02 2021 failed. Closest Data Point is Jan 03 2021 12:44pm.
-
-## Support the data collection
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H21LAHU)
-
