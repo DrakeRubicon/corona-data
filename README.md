@@ -5,4 +5,6 @@ Mostly Saxony, but some contain Datasets for whole Germany too.
 
 ## Notice:
 
-Datawrapper export for DIVI and Chemnitz for Jan 02 2021 failed. Closest Data Point is Jan 03 2021 12:44pm.
+* Tagesbericht Meißen for 02.12.2020 and 03.12.2020 was not generated on their servers.
+* Datawrapper export for DIVI and Chemnitz for Jan 02 2021 failed. Closest Data Point is Jan 03 2021 12:44pm.
+* OpenData-Export for Dresden failed on 10.03.2021 – manually added the table Export, has different structure.
