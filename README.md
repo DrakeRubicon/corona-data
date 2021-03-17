@@ -1,4 +1,8 @@
 # corona-data
+
+[![Go to data collection code](https://img.shields.io/badge/corona-data-yellow)](https://github.com/DrakeRubicon/corona-data)
+[![Last commit](https://img.shields.io/github/last-commit/DrakeRubicon/corona-data)](https://github.com/DrakeRubicon/corona-data/commits/main)
+
 Raw data. Scraped, API'ed, screenshot'ed or manually added based upon daily/weekly updates of its sources.
 
 Mostly Saxony, but some contain Datasets for whole Germany too.
