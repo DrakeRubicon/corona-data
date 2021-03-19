@@ -12,3 +12,4 @@ Mostly Saxony, but some contain Datasets for whole Germany too.
 * Tagesbericht Meißen for 02.12.2020 and 03.12.2020 was not generated on their servers.
 * Datawrapper export for DIVI and Chemnitz for Jan 02 2021 failed. Closest Data Point is Jan 03 2021 12:44pm.
 * OpenData-Export for Dresden failed on 10.03.2021 – manually added the table Export, has different structure.
+* Daily Report LK Erzgebirgskreis on 18.03.2021 is the same as 17.03. because LK could not provide its own data because of RKI-Dashboard outage. Affects case- & death-numbers of 17.03. as well as incidence and quarantine count on 18.03.
