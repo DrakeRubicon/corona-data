@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Landeshauptstadt Dresden", 
+        "y": 7.4
+    }, 
+    {
+        "name": "Stadt Leipzig", 
+        "y": 6.2
+    }, 
+    {
+        "name": "Stadt Chemnitz", 
+        "y": 11.0
+    }, 
+    {
+        "name": "Landkreis Bautzen", 
+        "y": 13.7
+    }, 
+    {
+        "name": "Erzgebirgskreis", 
+        "y": 25.7
+    }, 
+    {
+        "name": "Landkreis G\u00f6rlitz", 
+        "y": 6.7
+    }, 
+    {
+        "name": "Landkreis Leipzig", 
+        "y": 7.7
+    }, 
+    {
+        "name": "Landkreis Mei\u00dfen", 
+        "y": 13.7
+    }, 
+    {
+        "name": "Landkreis Mittelsachsen", 
+        "y": 20.7
+    }, 
+    {
+        "name": "Landkreis Nordsachsen", 
+        "y": 11.1
+    }, 
+    {
+        "name": "Landkreis S\u00e4chsische Schweiz-Osterzgebirge", 
+        "y": 12.6
+    }, 
+    {
+        "name": "Vogtlandkreis", 
+        "y": 1.8
+    }, 
+    {
+        "name": "Landkreis Zwickau", 
+        "y": 8.3
+    }, 
+    {
+        "name": "Sachsen gesamt", 
+        "y": 11.0
+    }
+]
