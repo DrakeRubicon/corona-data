@@ -1,0 +1,465 @@
+{
+  "historical": [
+    {
+      "date": "2020-03-09",
+      "count": 127457,
+      "percentPositive": 5.95
+    },
+    {
+      "date": "2020-03-16",
+      "count": 348619,
+      "percentPositive": 6.83
+    },
+    {
+      "date": "2020-03-23",
+      "count": 361515,
+      "percentPositive": 8.69
+    },
+    {
+      "date": "2020-03-30",
+      "count": 408348,
+      "percentPositive": 9.03
+    },
+    {
+      "date": "2020-04-06",
+      "count": 380197,
+      "percentPositive": 8.1
+    },
+    {
+      "date": "2020-04-13",
+      "count": 331902,
+      "percentPositive": 6.65
+    },
+    {
+      "date": "2020-04-20",
+      "count": 363890,
+      "percentPositive": 4.97
+    },
+    {
+      "date": "2020-04-27",
+      "count": 326788,
+      "percentPositive": 3.86
+    },
+    {
+      "date": "2020-05-04",
+      "count": 403875,
+      "percentPositive": 2.66
+    },
+    {
+      "date": "2020-05-11",
+      "count": 432666,
+      "percentPositive": 1.67
+    },
+    {
+      "date": "2020-05-18",
+      "count": 353467,
+      "percentPositive": 1.48
+    },
+    {
+      "date": "2020-05-25",
+      "count": 405269,
+      "percentPositive": 1.06
+    },
+    {
+      "date": "2020-06-01",
+      "count": 340986,
+      "percentPositive": 0.94
+    },
+    {
+      "date": "2020-06-08",
+      "count": 327196,
+      "percentPositive": 0.86
+    },
+    {
+      "date": "2020-06-15",
+      "count": 388187,
+      "percentPositive": 1.37
+    },
+    {
+      "date": "2020-06-22",
+      "count": 467413,
+      "percentPositive": 0.79
+    },
+    {
+      "date": "2020-06-29",
+      "count": 507663,
+      "percentPositive": 0.61
+    },
+    {
+      "date": "2020-07-06",
+      "count": 510551,
+      "percentPositive": 0.59
+    },
+    {
+      "date": "2020-07-13",
+      "count": 538701,
+      "percentPositive": 0.65
+    },
+    {
+      "date": "2020-07-20",
+      "count": 574883,
+      "percentPositive": 0.79
+    },
+    {
+      "date": "2020-07-27",
+      "count": 586620,
+      "percentPositive": 0.98
+    },
+    {
+      "date": "2020-08-03",
+      "count": 736171,
+      "percentPositive": 1
+    },
+    {
+      "date": "2020-08-10",
+      "count": 857761,
+      "percentPositive": 0.97
+    },
+    {
+      "date": "2020-08-17",
+      "count": 1092013,
+      "percentPositive": 0.84
+    },
+    {
+      "date": "2020-08-24",
+      "count": 1120883,
+      "percentPositive": 0.74
+    },
+    {
+      "date": "2020-08-31",
+      "count": 1072316,
+      "percentPositive": 0.77
+    },
+    {
+      "date": "2020-09-07",
+      "count": 1164932,
+      "percentPositive": 0.86
+    },
+    {
+      "date": "2020-09-14",
+      "count": 1146565,
+      "percentPositive": 1.16
+    },
+    {
+      "date": "2020-09-21",
+      "count": 1155995,
+      "percentPositive": 1.22
+    },
+    {
+      "date": "2020-09-28",
+      "count": 1112967,
+      "percentPositive": 1.74
+    },
+    {
+      "date": "2020-10-05",
+      "count": 1188338,
+      "percentPositive": 2.49
+    },
+    {
+      "date": "2020-10-12",
+      "count": 1263716,
+      "percentPositive": 3.54
+    },
+    {
+      "date": "2020-10-19",
+      "count": 1418726,
+      "percentPositive": 5.51
+    },
+    {
+      "date": "2020-10-26",
+      "count": 1593278,
+      "percentPositive": 7.23
+    },
+    {
+      "date": "2020-11-02",
+      "count": 1598527,
+      "percentPositive": 7.81
+    },
+    {
+      "date": "2020-11-09",
+      "count": 1396088,
+      "percentPositive": 8.97
+    },
+    {
+      "date": "2020-11-16",
+      "count": 1367570,
+      "percentPositive": 9.34
+    },
+    {
+      "date": "2020-11-23",
+      "count": 1381117,
+      "percentPositive": 9.33
+    },
+    {
+      "date": "2020-11-30",
+      "count": 1395790,
+      "percentPositive": 9.91
+    },
+    {
+      "date": "2020-12-07",
+      "count": 1516038,
+      "percentPositive": 11.18
+    },
+    {
+      "date": "2020-12-14",
+      "count": 1672033,
+      "percentPositive": 11.26
+    },
+    {
+      "date": "2020-12-21",
+      "count": 1090372,
+      "percentPositive": 12.97
+    },
+    {
+      "date": "2020-12-28",
+      "count": 845729,
+      "percentPositive": 15.36
+    },
+    {
+      "date": "2021-01-04",
+      "count": 1231405,
+      "percentPositive": 12.81
+    },
+    {
+      "date": "2021-01-11",
+      "count": 1187564,
+      "percentPositive": 10.44
+    },
+    {
+      "date": "2021-01-18",
+      "count": 1113690,
+      "percentPositive": 9.89
+    },
+    {
+      "date": "2021-01-25",
+      "count": 1151633,
+      "percentPositive": 8.46
+    },
+    {
+      "date": "2021-02-01",
+      "count": 1101499,
+      "percentPositive": 7.48
+    },
+    {
+      "date": "2021-02-08",
+      "count": 1060602,
+      "percentPositive": 6.4
+    },
+    {
+      "date": "2021-02-15",
+      "count": 1103231,
+      "percentPositive": 6.11
+    },
+    {
+      "date": "2021-02-22",
+      "count": 1171798,
+      "percentPositive": 6.15
+    },
+    {
+      "date": "2021-03-01",
+      "count": 1153270,
+      "percentPositive": 6.22
+    },
+    {
+      "date": "2021-03-08",
+      "count": 1280050,
+      "percentPositive": 6.69
+    },
+    {
+      "date": "2021-03-15",
+      "count": 1367247,
+      "percentPositive": 7.89
+    },
+    {
+      "date": "2021-03-22",
+      "count": 1415220,
+      "percentPositive": 9.32
+    },
+    {
+      "date": "2021-03-29",
+      "count": 1178378,
+      "percentPositive": 10.93
+    },
+    {
+      "date": "2021-04-05",
+      "count": 1169510,
+      "percentPositive": 12.05
+    },
+    {
+      "date": "2021-04-12",
+      "count": 1312602,
+      "percentPositive": 12.45
+    },
+    {
+      "date": "2021-04-19",
+      "count": 1427668,
+      "percentPositive": 12.42
+    },
+    {
+      "date": "2021-04-26",
+      "count": 1360960,
+      "percentPositive": 11.17
+    },
+    {
+      "date": "2021-05-03",
+      "count": 1255724,
+      "percentPositive": 10.25
+    },
+    {
+      "date": "2021-05-10",
+      "count": 1102491,
+      "percentPositive": 8.21
+    },
+    {
+      "date": "2021-05-17",
+      "count": 1221100,
+      "percentPositive": 5.77
+    },
+    {
+      "date": "2021-05-24",
+      "count": 951220,
+      "percentPositive": 4.15
+    },
+    {
+      "date": "2021-05-31",
+      "count": 883832,
+      "percentPositive": 3.12
+    },
+    {
+      "date": "2021-06-07",
+      "count": 835367,
+      "percentPositive": 2.31
+    },
+    {
+      "date": "2021-06-14",
+      "count": 730722,
+      "percentPositive": 1.43
+    },
+    {
+      "date": "2021-06-21",
+      "count": 714477,
+      "percentPositive": 0.97
+    },
+    {
+      "date": "2021-06-28",
+      "count": 726832,
+      "percentPositive": 0.81
+    },
+    {
+      "date": "2021-07-05",
+      "count": 612225,
+      "percentPositive": 1.12
+    },
+    {
+      "date": "2021-07-12",
+      "count": 607770,
+      "percentPositive": 1.62
+    },
+    {
+      "date": "2021-07-19",
+      "count": 594342,
+      "percentPositive": 2.32
+    },
+    {
+      "date": "2021-07-26",
+      "count": 583319,
+      "percentPositive": 2.93
+    },
+    {
+      "date": "2021-08-02",
+      "count": 587999,
+      "percentPositive": 3.82
+    },
+    {
+      "date": "2021-08-09",
+      "count": 567948,
+      "percentPositive": 6.03
+    },
+    {
+      "date": "2021-08-16",
+      "count": 690888,
+      "percentPositive": 7.81
+    },
+    {
+      "date": "2021-08-23",
+      "count": 861596,
+      "percentPositive": 8.18
+    },
+    {
+      "date": "2021-08-30",
+      "count": 946373,
+      "percentPositive": 8.67
+    },
+    {
+      "date": "2021-09-06",
+      "count": 1010977,
+      "percentPositive": 7.91
+    },
+    {
+      "date": "2021-09-13",
+      "count": 982150,
+      "percentPositive": 7.4
+    },
+    {
+      "date": "2021-09-20",
+      "count": 963508,
+      "percentPositive": 6.4
+    },
+    {
+      "date": "2021-09-27",
+      "count": 968394,
+      "percentPositive": 6.38
+    },
+    {
+      "date": "2021-10-04",
+      "count": 962234,
+      "percentPositive": 6.47
+    },
+    {
+      "date": "2021-10-11",
+      "count": 862348,
+      "percentPositive": 8.09
+    },
+    {
+      "date": "2021-10-18",
+      "count": 909936,
+      "percentPositive": 10.84
+    },
+    {
+      "date": "2021-10-25",
+      "count": 1166376,
+      "percentPositive": 12.11
+    },
+    {
+      "date": "2021-11-01",
+      "count": 1194338,
+      "percentPositive": 15.81
+    },
+    {
+      "date": "2021-11-08",
+      "count": 1629000,
+      "percentPositive": 17.13
+    },
+    {
+      "date": "2021-11-15",
+      "count": 1861289,
+      "percentPositive": 19.66
+    },
+    {
+      "date": "2021-11-22",
+      "count": 1945234,
+      "percentPositive": 21.01
+    },
+    {
+      "date": "2021-11-29",
+      "count": 1942936,
+      "percentPositive": 20.6
+    },
+    {
+      "date": "2021-12-06",
+      "count": 1721351,
+      "percentPositive": 19.75
+    }
+  ],
+  "lastUpdate": "2021-12-16T19:20:20+01:00"
+}

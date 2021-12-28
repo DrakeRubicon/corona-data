@@ -1,0 +1,156 @@
+{
+    "14": {
+        "boundingArea": "Sachsen gesamt", 
+        "deathsDifferenceToYesterday": 47, 
+        "incidence": 690.4, 
+        "incidenceForHospitals": 7.52, 
+        "infectionsDifferenceToYesterday": 2553, 
+        "percentageOfDeceased": 1.97, 
+        "totalDeaths": 12249, 
+        "totalHeathPatient": 536750, 
+        "totalInfections": 622293
+    }, 
+    "14511": {
+        "boundingArea": "Stadt Chemnitz", 
+        "deathsDifferenceToYesterday": 1, 
+        "incidence": 666.5, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 216, 
+        "percentageOfDeceased": 2.03, 
+        "totalDeaths": 686, 
+        "totalHeathPatient": null, 
+        "totalInfections": 33832
+    }, 
+    "14521": {
+        "boundingArea": "Erzgebirgskreis", 
+        "deathsDifferenceToYesterday": 40, 
+        "incidence": 708.6, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 16, 
+        "percentageOfDeceased": 1.85, 
+        "totalDeaths": 1197, 
+        "totalHeathPatient": null, 
+        "totalInfections": 64721
+    }, 
+    "14522": {
+        "boundingArea": "Landkreis Mittelsachsen", 
+        "deathsDifferenceToYesterday": 0, 
+        "incidence": 839.2, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 365, 
+        "percentageOfDeceased": 1.58, 
+        "totalDeaths": 838, 
+        "totalHeathPatient": null, 
+        "totalInfections": 53005
+    }, 
+    "14523": {
+        "boundingArea": "Vogtlandkreis", 
+        "deathsDifferenceToYesterday": 0, 
+        "incidence": 1114.8, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 102, 
+        "percentageOfDeceased": 2.65, 
+        "totalDeaths": 958, 
+        "totalHeathPatient": null, 
+        "totalInfections": 36114
+    }, 
+    "14524": {
+        "boundingArea": "Landkreis Zwickau", 
+        "deathsDifferenceToYesterday": 0, 
+        "incidence": 666.0, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 179, 
+        "percentageOfDeceased": 2.39, 
+        "totalDeaths": 1245, 
+        "totalHeathPatient": null, 
+        "totalInfections": 52177
+    }, 
+    "14612": {
+        "boundingArea": "Landeshauptstadt Dresden", 
+        "deathsDifferenceToYesterday": 0, 
+        "incidence": 627.8, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 313, 
+        "percentageOfDeceased": 1.79, 
+        "totalDeaths": 1383, 
+        "totalHeathPatient": null, 
+        "totalInfections": 77180
+    }, 
+    "14625": {
+        "boundingArea": "Landkreis Bautzen", 
+        "deathsDifferenceToYesterday": 2, 
+        "incidence": 804.0, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 132, 
+        "percentageOfDeceased": 1.89, 
+        "totalDeaths": 1103, 
+        "totalHeathPatient": null, 
+        "totalInfections": 58485
+    }, 
+    "14626": {
+        "boundingArea": "Landkreis G\u00f6rlitz", 
+        "deathsDifferenceToYesterday": 0, 
+        "incidence": 574.7, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 232, 
+        "percentageOfDeceased": 3.18, 
+        "totalDeaths": 1348, 
+        "totalHeathPatient": null, 
+        "totalInfections": 42370
+    }, 
+    "14627": {
+        "boundingArea": "Landkreis Mei\u00dfen", 
+        "deathsDifferenceToYesterday": 4, 
+        "incidence": 889.0, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 181, 
+        "percentageOfDeceased": 1.88, 
+        "totalDeaths": 793, 
+        "totalHeathPatient": null, 
+        "totalInfections": 42233
+    }, 
+    "14628": {
+        "boundingArea": "Landkreis S\u00e4chsische Schweiz-Osterzgebirge", 
+        "deathsDifferenceToYesterday": 0, 
+        "incidence": 881.4, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 148, 
+        "percentageOfDeceased": 2.37, 
+        "totalDeaths": 1179, 
+        "totalHeathPatient": null, 
+        "totalInfections": 49806
+    }, 
+    "14713": {
+        "boundingArea": "Stadt Leipzig", 
+        "deathsDifferenceToYesterday": 0, 
+        "incidence": 342.4, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 529, 
+        "percentageOfDeceased": 1.25, 
+        "totalDeaths": 628, 
+        "totalHeathPatient": null, 
+        "totalInfections": 50213
+    }, 
+    "14729": {
+        "boundingArea": "Landkreis Leipzig", 
+        "deathsDifferenceToYesterday": 0, 
+        "incidence": 723.3, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 105, 
+        "percentageOfDeceased": 1.21, 
+        "totalDeaths": 423, 
+        "totalHeathPatient": null, 
+        "totalInfections": 34948
+    }, 
+    "14730": {
+        "boundingArea": "Landkreis Nordsachsen", 
+        "deathsDifferenceToYesterday": 0, 
+        "incidence": 702.0, 
+        "incidenceForHospitals": null, 
+        "infectionsDifferenceToYesterday": 35, 
+        "percentageOfDeceased": 1.72, 
+        "totalDeaths": 468, 
+        "totalHeathPatient": null, 
+        "totalInfections": 27209
+    }
+}
